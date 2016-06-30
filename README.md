@@ -1,7 +1,7 @@
 # ParticleProperties
 Requires lxml
 
-mass_width_2014.mcd and mass_width_2006.csv
+ParticleProperties uses mass_width_2014.mcd and mass_width_2006.csv, from the PDG and converted to XML, and ParticleData.xml from Pythia8 as data sources.
 
         mu-             J = 1/2         pdg-mc = 13
         Charge = -      Anitparticle = mu+
