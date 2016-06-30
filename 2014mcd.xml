@@ -1,0 +1,1192 @@
+<?xml version="1.0"?>
+<data>
+
+<particle pdg-mc="21" massGeV="0.E+00" massErrPlus="+0.0E+00" massErrMinus="-0.0E+00"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="g" chrg="0">
+</particle>
+
+<particle pdg-mc="22" massGeV="0.E+00" massErrPlus="+0.0E+00" massErrMinus="-0.0E+00"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="gamma" chrg="0">
+</particle>
+
+<particle pdg-mc="24" massGeV="8.0385E+01" massErrPlus="+1.5E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.08E+00" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="W" chrg="+">
+</particle>
+
+<particle pdg-mc="23" massGeV="9.11876E+01" massErrPlus="+2.1E-03" massErrMinus="-2.1E-03"
+	 widthGeV="2.4952E+00" widthErrPlus="+2.3E-03" widthErrMinus="-2.3E-03" name="Z" chrg="0">
+</particle>
+
+<particle pdg-mc="25" massGeV="1.257E+02" massErrPlus="+4.0E-01" massErrMinus="-4.0E-01"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="H" chrg="0">
+</particle>
+
+<particle pdg-mc="11" massGeV="5.10998928E-04" massErrPlus="+1.1E-11" massErrMinus="-1.1E-11"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="e" chrg="-">
+</particle>
+
+<particle pdg-mc="13" massGeV="1.056583715E-01" massErrPlus="+3.5E-09" massErrMinus="-3.5E-09"
+	 widthGeV="2.9959847E-19" widthErrPlus="+3.0E-25" widthErrMinus="-3.0E-25" name="mu" chrg="-">
+</particle>
+
+<particle pdg-mc="15" massGeV="1.77682E+00" massErrPlus="+1.6E-04" massErrMinus="-1.6E-04"
+	 widthGeV="2.267E-12" widthErrPlus="+4.0E-15" widthErrMinus="-4.0E-15" name="tau" chrg="-">
+</particle>
+
+<particle pdg-mc="12" massGeV="0.E+00" massErrPlus="+0.E-00" massErrMinus="0.E+00"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="nu_e" chrg="0">
+</particle>
+
+<particle pdg-mc="14" massGeV="0.E+00" massErrPlus="+0.E-00" massErrMinus="0.E+00"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="nu_mu" chrg="0">
+</particle>
+
+<particle pdg-mc="16" massGeV="0.E+00" massErrPlus="+0.E-00" massErrMinus="0.E+00"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="nu_tau" chrg="0">
+</particle>
+
+<particle pdg-mc="1" massGeV="4.8E-03" massErrPlus="+0.5E-03" massErrMinus="-0.3E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="d" chrg="-1/3">
+</particle>
+
+<particle pdg-mc="2" massGeV="2.3E-03" massErrPlus="+0.7E-03" massErrMinus="-0.5E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="u" chrg="+2/3">
+</particle>
+
+<particle pdg-mc="3" massGeV="9.5E-02" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="s" chrg="-1/3">
+</particle>
+
+<particle pdg-mc="4" massGeV="1.275E+00" massErrPlus="+2.5E-02" massErrMinus="-2.5E-02"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="c" chrg="+2/3">
+</particle>
+
+<particle pdg-mc="5" massGeV="4.180E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="b" chrg="-1/3">
+</particle>
+
+<particle pdg-mc="6" massGeV="1.7321E+02" massErrPlus="+8.7E-01" massErrMinus="-8.7E-01"
+	 widthGeV="2.0E+00" widthErrPlus="+5.0E-01" widthErrMinus="-5.0E-01" name="t" chrg="+2/3">
+</particle>
+
+<particle pdg-mc="211" massGeV="1.3957018E-01" massErrPlus="+3.5E-07" massErrMinus="-3.5E-07"
+	 widthGeV="2.5284E-17" widthErrPlus="+5.0E-21" widthErrMinus="-5.0E-21" name="pi" chrg="+">
+</particle>
+
+<particle pdg-mc="111" massGeV="1.349766E-01" massErrPlus="+6.0E-07" massErrMinus="-6.0E-07"
+	 widthGeV="7.73E-09" widthErrPlus="+1.7E-10" widthErrMinus="-1.7E-10" name="pi" chrg="0">
+</particle>
+
+<particle pdg-mc="221" massGeV="5.47862E-01" massErrPlus="+1.8E-05" massErrMinus="-1.8E-05"
+	 widthGeV="1.31E-06" widthErrPlus="+5.0E-08" widthErrMinus="-5.0E-08" name="eta" chrg="0">
+</particle>
+
+<particle pdg-mc="9000221" massGeV="4.75E-01" massErrPlus="+7.5E-02" massErrMinus="-7.5E-02"
+	 widthGeV="5.50E-01" widthErrPlus="+1.5E-01" widthErrMinus="-1.5E-01" name="f(0)(500)" chrg="0">
+</particle>
+
+<particle pdg-mc="113" massGeV="7.7526E-01" massErrPlus="+2.5E-04" massErrMinus="-2.5E-04"
+	 widthGeV="1.491E-01" widthErrPlus="+8.0E-04" widthErrMinus="-8.0E-04" name="rho(770)" chrg="0">
+</particle>
+
+<particle pdg-mc="213" massGeV="7.7526E-01" massErrPlus="+2.5E-04" massErrMinus="-2.5E-04"
+	 widthGeV="1.491E-01" widthErrPlus="+8.0E-04" widthErrMinus="-8.0E-04" name="rho(770)" chrg="+">
+</particle>
+
+<particle pdg-mc="223" massGeV="7.8265E-01" massErrPlus="+1.2E-04" massErrMinus="-1.2E-04"
+	 widthGeV="8.49E-03" widthErrPlus="+8.0E-05" widthErrMinus="-8.0E-05" name="omega(782)" chrg="0">
+</particle>
+
+<particle pdg-mc="331" massGeV="9.5778E-01" massErrPlus="+6.0E-05" massErrMinus="-6.0E-05"
+	 widthGeV="1.98E-04" widthErrPlus="+9.0E-06" widthErrMinus="-9.0E-06" name="eta'(958)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010221" massGeV="9.90E-01" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="7.0E-02" widthErrPlus="+3.0E-02" widthErrMinus="-3.0E-02" name="f(0)(980)" chrg="0">
+</particle>
+
+<particle pdg-mc="9000111" massGeV="9.80E-01" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="7.5E-02" widthErrPlus="+2.5E-02" widthErrMinus="-2.5E-02" name="a(0)(980)" chrg="0">
+</particle>
+
+<particle pdg-mc="9000211" massGeV="9.80E-01" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="7.5E-02" widthErrPlus="+2.5E-02" widthErrMinus="-2.5E-02" name="a(0)(980)" chrg="+">
+</particle>
+
+<particle pdg-mc="333" massGeV="1.019461E+00" massErrPlus="+1.9E-05" massErrMinus="-1.9E-05"
+	 widthGeV="4.266E-03" widthErrPlus="+3.1E-05" widthErrMinus="-3.1E-05" name="phi(1020)" chrg="0">
+</particle>
+
+<particle pdg-mc="10223" massGeV="1.170E+00" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="3.6E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="h(1)(1170)" chrg="0">
+</particle>
+
+<particle pdg-mc="10113" massGeV="1.2295E+00" massErrPlus="+3.2E-03" massErrMinus="-3.2E-03"
+	 widthGeV="1.42E-01" widthErrPlus="+9.0E-03" widthErrMinus="-9.0E-03" name="b(1)(1235)" chrg="0">
+</particle>
+
+<particle pdg-mc="10213" massGeV="1.2295E+00" massErrPlus="+3.2E-03" massErrMinus="-3.2E-03"
+	 widthGeV="1.42E-01" widthErrPlus="+9.0E-03" widthErrMinus="-9.0E-03" name="b(1)(1235)" chrg="+">
+</particle>
+
+<particle pdg-mc="20113" massGeV="1.23E+00" massErrPlus="+4.0E-02" massErrMinus="-4.0E-02"
+	 widthGeV="4.2E-01" widthErrPlus="+1.8E-01" widthErrMinus="-1.8E-01" name="a(1)(1260)" chrg="0">
+</particle>
+
+<particle pdg-mc="20213" massGeV="1.23E+00" massErrPlus="+4.0E-02" massErrMinus="-4.0E-02"
+	 widthGeV="4.2E-01" widthErrPlus="+1.8E-01" widthErrMinus="-1.8E-01" name="a(1)(1260)" chrg="+">
+</particle>
+
+<particle pdg-mc="225" massGeV="1.2751E+00" massErrPlus="+1.2E-03" massErrMinus="-1.2E-03"
+	 widthGeV="1.851E-01" widthErrPlus="+2.9E-03" widthErrMinus="-2.4E-03" name="f(2)(1270)" chrg="0">
+</particle>
+
+<particle pdg-mc="20223" massGeV="1.2819E+00" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="2.42E-02" widthErrPlus="+1.1E-03" widthErrMinus="-1.1E-03" name="f(1)(1285)" chrg="0">
+</particle>
+
+<particle pdg-mc="100221" massGeV="1.294E+00" massErrPlus="+4.0E-03" massErrMinus="-4.0E-03"
+	 widthGeV="5.5E-02" widthErrPlus="+5.0E-03" widthErrMinus="-5.0E-03" name="eta(1295)" chrg="0">
+</particle>
+
+<particle pdg-mc="100111" massGeV="1.30E+00" massErrPlus="+1.0E-01" massErrMinus="-1.0E-01"
+	 widthGeV="4.0E-01" widthErrPlus="+2.0E-01" widthErrMinus="-2.0E-01" name="pi(1300)" chrg="0">
+</particle>
+
+<particle pdg-mc="100211" massGeV="1.30E+00" massErrPlus="+1.0E-01" massErrMinus="-1.0E-01"
+	 widthGeV="4.0E-01" widthErrPlus="+2.0E-01" widthErrMinus="-2.0E-01" name="pi(1300)" chrg="+">
+</particle>
+
+<particle pdg-mc="115" massGeV="1.3183E+00" massErrPlus="+5.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="1.07E-01" widthErrPlus="+5.0E-03" widthErrMinus="-5.0E-03" name="a(2)(1320)" chrg="0">
+</particle>
+
+<particle pdg-mc="215" massGeV="1.3183E+00" massErrPlus="+5.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="1.07E-01" widthErrPlus="+5.0E-03" widthErrMinus="-5.0E-03" name="a(2)(1320)" chrg="+">
+</particle>
+
+<particle pdg-mc="30221" massGeV="1.35E+00" massErrPlus="+1.5E-01" massErrMinus="-1.5E-01"
+	 widthGeV="3.5E-01" widthErrPlus="+1.5E-01" widthErrMinus="-1.5E-01" name="f(0)(1370)" chrg="0">
+</particle>
+
+<particle pdg-mc="9000113" massGeV="1.354E+00" massErrPlus="+2.5E-02" massErrMinus="-2.5E-02"
+	 widthGeV="3.30E-01" widthErrPlus="+3.5E-02" widthErrMinus="-3.5E-02" name="pi(1)(1400)" chrg="0">
+</particle>
+
+<particle pdg-mc="9000213" massGeV="1.354E+00" massErrPlus="+2.5E-02" massErrMinus="-2.5E-02"
+	 widthGeV="3.30E-01" widthErrPlus="+3.5E-02" widthErrMinus="-3.5E-02" name="pi(1)(1400)" chrg="+">
+</particle>
+
+<particle pdg-mc="9020221" massGeV="1.4088E+00" massErrPlus="+1.8E-03" massErrMinus="-1.8E-03"
+	 widthGeV="5.10E-02" widthErrPlus="+2.9E-03" widthErrMinus="-2.9E-03" name="eta(1405)" chrg="0">
+</particle>
+
+<particle pdg-mc="20333" massGeV="1.4264E+00" massErrPlus="+9.0E-04" massErrMinus="-9.0E-04"
+	 widthGeV="5.49E-02" widthErrPlus="+2.6E-03" widthErrMinus="-2.6E-03" name="f(1)(1420)" chrg="0">
+</particle>
+
+<particle pdg-mc="100223" massGeV="1.425E+00" massErrPlus="+2.5E-02" massErrMinus="-2.5E-02"
+	 widthGeV="2.15E-01" widthErrPlus="+3.5E-02" widthErrMinus="-3.5E-02" name="omega(1420)" chrg="0">
+</particle>
+
+<particle pdg-mc="10111" massGeV="1.474E+00" massErrPlus="+1.9E-02" massErrMinus="-1.9E-02"
+	 widthGeV="2.65E-01" widthErrPlus="+1.3E-02" widthErrMinus="-1.3E-02" name="a(0)(1450)" chrg="0">
+</particle>
+
+<particle pdg-mc="10211" massGeV="1.474E+00" massErrPlus="+1.9E-02" massErrMinus="-1.9E-02"
+	 widthGeV="2.65E-01" widthErrPlus="+1.3E-02" widthErrMinus="-1.3E-02" name="a(0)(1450)" chrg="+">
+</particle>
+
+<particle pdg-mc="100113" massGeV="1.465E+00" massErrPlus="+2.5E-02" massErrMinus="-2.5E-02"
+	 widthGeV="4.0E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="rho(1450)" chrg="0">
+</particle>
+
+<particle pdg-mc="100213" massGeV="1.465E+00" massErrPlus="+2.5E-02" massErrMinus="-2.5E-02"
+	 widthGeV="4.0E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="rho(1450)" chrg="+">
+</particle>
+
+<particle pdg-mc="100331" massGeV="1.476E+00" massErrPlus="+4.0E-03" massErrMinus="-4.0E-03"
+	 widthGeV="8.5E-02" widthErrPlus="+9.0E-03" widthErrMinus="-9.0E-03" name="eta(1475)" chrg="0">
+</particle>
+
+<particle pdg-mc="9030221" massGeV="1.505E+00" massErrPlus="+6.0E-03" massErrMinus="-6.0E-03"
+	 widthGeV="1.09E-01" widthErrPlus="+7.0E-03" widthErrMinus="-7.0E-03" name="f(0)(1500)" chrg="0">
+</particle>
+
+<particle pdg-mc="335" massGeV="1.525E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="7.3E-02" widthErrPlus="+6.0E-03" widthErrMinus="-5.0E-03" name="f(2)'(1525)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010113" massGeV="1.662E+00" massErrPlus="+8.0E-03" massErrMinus="-9.0E-03"
+	 widthGeV="2.4E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="pi(1)(1600)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010213" massGeV="1.662E+00" massErrPlus="+8.0E-03" massErrMinus="-9.0E-03"
+	 widthGeV="2.4E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="pi(1)(1600)" chrg="+">
+</particle>
+
+<particle pdg-mc="10225" massGeV="1.617E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.81E-01" widthErrPlus="+1.1E-02" widthErrMinus="-1.1E-02" name="eta(2)(1645)" chrg="0">
+</particle>
+
+<particle pdg-mc="30223" massGeV="1.670E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="3.15E-01" widthErrPlus="+3.5E-02" widthErrMinus="-3.5E-02" name="omega(1650)" chrg="0">
+</particle>
+
+<particle pdg-mc="227" massGeV="1.667E+00" massErrPlus="+4.0E-03" massErrMinus="-4.0E-03"
+	 widthGeV="1.68E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="omega(3)(1670)" chrg="0">
+</particle>
+
+<particle pdg-mc="10115" massGeV="1.6722E+00" massErrPlus="+3.0E-03" massErrMinus="-3.0E-03"
+	 widthGeV="2.60E-01" widthErrPlus="+9.0E-03" widthErrMinus="-9.0E-03" name="pi(2)(1670)" chrg="0">
+</particle>
+
+<particle pdg-mc="10215" massGeV="1.6722E+00" massErrPlus="+3.0E-03" massErrMinus="-3.0E-03"
+	 widthGeV="2.60E-01" widthErrPlus="+9.0E-03" widthErrMinus="-9.0E-03" name="pi(2)(1670)" chrg="+">
+</particle>
+
+<particle pdg-mc="100333" massGeV="1.680E+00" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="1.5E-01" widthErrPlus="+5.0E-02" widthErrMinus="-5.0E-02" name="phi(1680)" chrg="0">
+</particle>
+
+<particle pdg-mc="117" massGeV="1.6888E+00" massErrPlus="+2.1E-03" massErrMinus="-2.1E-03"
+	 widthGeV="1.61E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="rho(3)(1690)" chrg="0">
+</particle>
+
+<particle pdg-mc="217" massGeV="1.6888E+00" massErrPlus="+2.1E-03" massErrMinus="-2.1E-03"
+	 widthGeV="1.61E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="rho(3)(1690)" chrg="+">
+</particle>
+
+<particle pdg-mc="30113" massGeV="1.720E+00" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="rho(1700)" chrg="0">
+</particle>
+
+<particle pdg-mc="30213" massGeV="1.720E+00" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="rho(1700)" chrg="+">
+</particle>
+
+<particle pdg-mc="10331" massGeV="1.722E+00" massErrPlus="+6.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.35E-01" widthErrPlus="+7.0E-03" widthErrMinus="-7.0E-03" name="f(0)(1710)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010111" massGeV="1.812E+00" massErrPlus="+1.2E-02" massErrMinus="-1.2E-02"
+	 widthGeV="2.08E-01" widthErrPlus="+1.2E-02" widthErrMinus="-1.2E-02" name="pi(1800)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010211" massGeV="1.812E+00" massErrPlus="+1.2E-02" massErrMinus="-1.2E-02"
+	 widthGeV="2.08E-01" widthErrPlus="+1.2E-02" widthErrMinus="-1.2E-02" name="pi(1800)" chrg="+">
+</particle>
+
+<particle pdg-mc="337" massGeV="1.854E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="8.7E-02" widthErrPlus="+2.8E-02" widthErrMinus="-2.3E-02" name="phi(3)(1850)" chrg="0">
+</particle>
+
+<particle pdg-mc="9050225" massGeV="1.944E+00" massErrPlus="+1.2E-02" massErrMinus="-1.2E-02"
+	 widthGeV="4.72E-01" widthErrPlus="+1.8E-02" widthErrMinus="-1.8E-02" name="f(2)(1950)" chrg="0">
+</particle>
+
+<particle pdg-mc="9060225" massGeV="2.01E+00" massErrPlus="+6.0E-02" massErrMinus="-8.0E-02"
+	 widthGeV="2.0E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="f(2)(2010)" chrg="0">
+</particle>
+
+<particle pdg-mc="119" massGeV="1.996E+00" massErrPlus="+1.0E-02" massErrMinus="-9.0E-03"
+	 widthGeV="2.55E-01" widthErrPlus="+2.8E-02" widthErrMinus="-2.4E-02" name="a(4)(2040)" chrg="0">
+</particle>
+
+<particle pdg-mc="219" massGeV="1.996E+00" massErrPlus="+1.0E-02" massErrMinus="-9.0E-03"
+	 widthGeV="2.55E-01" widthErrPlus="+2.8E-02" widthErrMinus="-2.4E-02" name="a(4)(2040)" chrg="+">
+</particle>
+
+<particle pdg-mc="229" massGeV="2.018E+00" massErrPlus="+1.1E-02" massErrMinus="-1.1E-02"
+	 widthGeV="2.37E-01" widthErrPlus="+1.8E-02" widthErrMinus="-1.8E-02" name="f(4)(2050)" chrg="0">
+</particle>
+
+<particle pdg-mc="9080225" massGeV="2.297E+00" massErrPlus="+2.8E-02" massErrMinus="-2.8E-02"
+	 widthGeV="1.5E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="f(2)(2300)" chrg="0">
+</particle>
+
+<particle pdg-mc="9090225" massGeV="2.34E+00" massErrPlus="+6.0E-02" massErrMinus="-6.0E-02"
+	 widthGeV="3.2E-01" widthErrPlus="+8.0E-02" widthErrMinus="-7.0E-02" name="f(2)(2340)" chrg="0">
+</particle>
+
+<particle pdg-mc="321" massGeV="4.93677E-01" massErrPlus="+1.6E-05" massErrMinus="-1.6E-05"
+	 widthGeV="5.317E-17" widthErrPlus="+9.0E-20" widthErrMinus="-9.0E-20" name="K" chrg="+">
+</particle>
+
+<particle pdg-mc="311" massGeV="4.97614E-01" massErrPlus="+2.4E-05" massErrMinus="-2.4E-05"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="K" chrg="0">
+</particle>
+
+<particle pdg-mc="310" massGeV="4.97614E-01" massErrPlus="+2.4E-05" massErrMinus="-2.4E-05"
+	 widthGeV="7.3508E-15" widthErrPlus="+2.9E-18" widthErrMinus="-2.9E-18" name="K(S)" chrg="0">
+</particle>
+
+<particle pdg-mc="130" massGeV="4.97614E-01" massErrPlus="+2.4E-05" massErrMinus="-2.4E-05"
+	 widthGeV="1.287E-17" widthErrPlus="+5.0E-20" widthErrMinus="-5.0E-20" name="K(L)" chrg="0">
+</particle>
+
+<particle pdg-mc="313" massGeV="8.9581E-01" massErrPlus="+1.9E-04" massErrMinus="-1.9E-04"
+	 widthGeV="4.74E-02" widthErrPlus="+6.0E-04" widthErrMinus="-6.0E-04" name="K*(892)" chrg="0">
+</particle>
+
+<particle pdg-mc="323" massGeV="8.9166E-01" massErrPlus="+2.6E-04" massErrMinus="-2.6E-04"
+	 widthGeV="5.08E-02" widthErrPlus="+9.0E-04" widthErrMinus="-9.0E-04" name="K*(892)" chrg="+">
+</particle>
+
+<particle pdg-mc="10313" massGeV="1.272E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="9.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="K(1)(1270)" chrg="0">
+</particle>
+
+<particle pdg-mc="10323" massGeV="1.272E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="9.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="K(1)(1270)" chrg="+">
+</particle>
+
+<particle pdg-mc="20313" massGeV="1.403E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="1.74E-01" widthErrPlus="+1.3E-02" widthErrMinus="-1.3E-02" name="K(1)(1400)" chrg="0">
+</particle>
+
+<particle pdg-mc="20323" massGeV="1.403E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="1.74E-01" widthErrPlus="+1.3E-02" widthErrMinus="-1.3E-02" name="K(1)(1400)" chrg="+">
+</particle>
+
+<particle pdg-mc="100313" massGeV="1.414E+00" massErrPlus="+1.5E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.32E-01" widthErrPlus="+2.1E-02" widthErrMinus="-2.1E-02" name="K*(1410)" chrg="0">
+</particle>
+
+<particle pdg-mc="100323" massGeV="1.414E+00" massErrPlus="+1.5E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.32E-01" widthErrPlus="+2.1E-02" widthErrMinus="-2.1E-02" name="K*(1410)" chrg="+">
+</particle>
+
+<particle pdg-mc="10311" massGeV="1.43E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="2.7E-01" widthErrPlus="+8.0E-02" widthErrMinus="-8.0E-02" name="K(0)*(1430)" chrg="0">
+</particle>
+
+<particle pdg-mc="10321" massGeV="1.43E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="2.7E-01" widthErrPlus="+8.0E-02" widthErrMinus="-8.0E-02" name="K(0)*(1430)" chrg="+">
+</particle>
+
+<particle pdg-mc="315" massGeV="1.4324E+00" massErrPlus="+1.3E-03" massErrMinus="-1.3E-03"
+	 widthGeV="1.09E-01" widthErrPlus="+5.0E-03" widthErrMinus="-5.0E-03" name="K(2)*(1430)" chrg="0">
+</particle>
+
+<particle pdg-mc="325" massGeV="1.4256E+00" massErrPlus="+1.5E-03" massErrMinus="-1.5E-03"
+	 widthGeV="9.85E-02" widthErrPlus="+2.7E-03" widthErrMinus="-2.7E-03" name="K(2)*(1430)" chrg="+">
+</particle>
+
+<particle pdg-mc="30313" massGeV="1.717E+00" massErrPlus="+2.7E-02" massErrMinus="-2.7E-02"
+	 widthGeV="3.2E-01" widthErrPlus="+1.1E-01" widthErrMinus="-1.1E-01" name="K*(1680)" chrg="0">
+</particle>
+
+<particle pdg-mc="30323" massGeV="1.717E+00" massErrPlus="+2.7E-02" massErrMinus="-2.7E-02"
+	 widthGeV="3.2E-01" widthErrPlus="+1.1E-01" widthErrMinus="-1.1E-01" name="K*(1680)" chrg="+">
+</particle>
+
+<particle pdg-mc="10315" massGeV="1.773E+00" massErrPlus="+8.0E-03" massErrMinus="-8.0E-03"
+	 widthGeV="1.86E-01" widthErrPlus="+1.4E-02" widthErrMinus="-1.4E-02" name="K(2)(1770)" chrg="0">
+</particle>
+
+<particle pdg-mc="10325" massGeV="1.773E+00" massErrPlus="+8.0E-03" massErrMinus="-8.0E-03"
+	 widthGeV="1.86E-01" widthErrPlus="+1.4E-02" widthErrMinus="-1.4E-02" name="K(2)(1770)" chrg="+">
+</particle>
+
+<particle pdg-mc="317" massGeV="1.776E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="1.59E-01" widthErrPlus="+2.1E-02" widthErrMinus="-2.1E-02" name="K(3)*(1780)" chrg="0">
+</particle>
+
+<particle pdg-mc="327" massGeV="1.776E+00" massErrPlus="+7.0E-03" massErrMinus="-7.0E-03"
+	 widthGeV="1.59E-01" widthErrPlus="+2.1E-02" widthErrMinus="-2.1E-02" name="K(3)*(1780)" chrg="+">
+</particle>
+
+<particle pdg-mc="20315" massGeV="1.816E+00" massErrPlus="+1.3E-02" massErrMinus="-1.3E-02"
+	 widthGeV="2.76E-01" widthErrPlus="+3.5E-02" widthErrMinus="-3.5E-02" name="K(2)(1820)" chrg="0">
+</particle>
+
+<particle pdg-mc="20325" massGeV="1.816E+00" massErrPlus="+1.3E-02" massErrMinus="-1.3E-02"
+	 widthGeV="2.76E-01" widthErrPlus="+3.5E-02" widthErrMinus="-3.5E-02" name="K(2)(1820)" chrg="+">
+</particle>
+
+<particle pdg-mc="319" massGeV="2.045E+00" massErrPlus="+9.0E-03" massErrMinus="-9.0E-03"
+	 widthGeV="1.98E-01" widthErrPlus="+3.0E-02" widthErrMinus="-3.0E-02" name="K(4)*(2045)" chrg="0">
+</particle>
+
+<particle pdg-mc="329" massGeV="2.045E+00" massErrPlus="+9.0E-03" massErrMinus="-9.0E-03"
+	 widthGeV="1.98E-01" widthErrPlus="+3.0E-02" widthErrMinus="-3.0E-02" name="K(4)*(2045)" chrg="+">
+</particle>
+
+<particle pdg-mc="411" massGeV="1.86961E+00" massErrPlus="+1.0E-04" massErrMinus="-1.0E-04"
+	 widthGeV="6.33E-13" widthErrPlus="+4.0E-15" widthErrMinus="-4.0E-15" name="D" chrg="+">
+</particle>
+
+<particle pdg-mc="421" massGeV="1.86484E+00" massErrPlus="+7.0E-05" massErrMinus="-7.0E-05"
+	 widthGeV="1.605E-12" widthErrPlus="+6.0E-15" widthErrMinus="-6.0E-15" name="D" chrg="0">
+</particle>
+
+<particle pdg-mc="423" massGeV="2.00696E+00" massErrPlus="+1.0E-04" massErrMinus="-1.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="D*(2007)" chrg="0">
+</particle>
+
+<particle pdg-mc="413" massGeV="2.01026E+00" massErrPlus="+7.0E-05" massErrMinus="-7.0E-05"
+	 widthGeV="8.34E-05" widthErrPlus="+1.8E-06" widthErrMinus="-1.8E-06" name="D*(2010)" chrg="+">
+</particle>
+
+<particle pdg-mc="10421" massGeV="2.318E+00" massErrPlus="+2.9E-02" massErrMinus="-2.9E-02"
+	 widthGeV="2.7E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="D(0)*(2400)" chrg="0">
+</particle>
+
+<particle pdg-mc="10411" massGeV="2.318E+00" massErrPlus="+2.9E-02" massErrMinus="-2.9E-02"
+	 widthGeV="2.7E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="D(0)*(2400)" chrg="+">
+</particle>
+
+<particle pdg-mc="10423" massGeV="2.4214E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="2.74E-02" widthErrPlus="+2.5E-03" widthErrMinus="-2.5E-03" name="D(1)(2420)" chrg="0">
+</particle>
+
+<particle pdg-mc="425" massGeV="2.4626E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="4.90E-02" widthErrPlus="+1.3E-03" widthErrMinus="-1.3E-03" name="D(2)*(2460)" chrg="0">
+</particle>
+
+<particle pdg-mc="415" massGeV="2.4643E+00" massErrPlus="+1.6E-03" massErrMinus="-1.6E-03"
+	 widthGeV="3.7E-02" widthErrPlus="+6.0E-03" widthErrMinus="-6.0E-03" name="D(2)*(2460)" chrg="+">
+</particle>
+
+<particle pdg-mc="431" massGeV="1.96830E+00" massErrPlus="+1.1E-04" massErrMinus="-1.1E-04"
+	 widthGeV="1.317E-12" widthErrPlus="+1.9E-14" widthErrMinus="-1.9E-14" name="D(s)" chrg="+">
+</particle>
+
+<particle pdg-mc="433" massGeV="2.1121E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="D(s)*" chrg="+">
+</particle>
+
+<particle pdg-mc="10431" massGeV="2.3177E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="D(s0)*(2317)" chrg="+">
+</particle>
+
+<particle pdg-mc="20433" massGeV="2.4595E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="D(s1)(2460)" chrg="+">
+</particle>
+
+<particle pdg-mc="10433" massGeV="2.53510E+00" massErrPlus="+8.0E-05" massErrMinus="-8.0E-05"
+	 widthGeV="9.2E-04" widthErrPlus="+5.0E-05" widthErrMinus="-5.0E-05" name="D(s1)(2536)" chrg="+">
+</particle>
+
+<particle pdg-mc="435" massGeV="2.5719E+00" massErrPlus="+8.0E-04" massErrMinus="-8.0E-04"
+	 widthGeV="1.7E-02" widthErrPlus="+4.0E-03" widthErrMinus="-4.0E-03" name="D(s2)*(2573)" chrg="+">
+</particle>
+
+<particle pdg-mc="521" massGeV="5.27926E+00" massErrPlus="+1.7E-04" massErrMinus="-1.7E-04"
+	 widthGeV="4.018E-13" widthErrPlus="+1.0E-15" widthErrMinus="-1.0E-15" name="B" chrg="+">
+</particle>
+
+<particle pdg-mc="511" massGeV="5.27958E+00" massErrPlus="+1.7E-04" massErrMinus="-1.7E-04"
+	 widthGeV="4.333E-13" widthErrPlus="+1.4E-15" widthErrMinus="-1.4E-15" name="B" chrg="0">
+</particle>
+
+<particle pdg-mc="513" massGeV="5.3252E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="B*" chrg="0">
+</particle>
+
+<particle pdg-mc="523" massGeV="5.3252E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="B*" chrg="+">
+</particle>
+
+<particle pdg-mc="515" massGeV="5.743E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="2.3E-02" widthErrPlus="+5.0E-03" widthErrMinus="-1.1E-02" name="B(2)*(5747)" chrg="0">
+</particle>
+
+<particle pdg-mc="525" massGeV="5.743E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="2.3E-02" widthErrPlus="+5.0E-03" widthErrMinus="-1.1E-02" name="B(2)*(5747)" chrg="+">
+</particle>
+
+<particle pdg-mc="531" massGeV="5.36677E+00" massErrPlus="+2.4E-04" massErrMinus="-2.4E-04"
+	 widthGeV="4.353E-13" widthErrPlus="+2.0E-15" widthErrMinus="-2.0E-15" name="B(s)" chrg="0">
+</particle>
+
+<particle pdg-mc="533" massGeV="5.4154E+00" massErrPlus="+2.4E-03" massErrMinus="-2.1E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="B(s)*" chrg="0">
+</particle>
+
+<particle pdg-mc="535" massGeV="5.83996E+00" massErrPlus="+2.0E-04" massErrMinus="-2.0E-04"
+	 widthGeV="1.6E-03" widthErrPlus="+5.0E-04" widthErrMinus="-5.0E-04" name="B(s2)*(5840)" chrg="0">
+</particle>
+
+<particle pdg-mc="541" massGeV="6.2756E+00" massErrPlus="+1.1E-03" massErrMinus="-1.1E-03"
+	 widthGeV="1.46E-12" widthErrPlus="+1.1E-13" widthErrMinus="-1.0E-13" name="B(c)" chrg="+">
+</particle>
+
+<particle pdg-mc="441" massGeV="2.9836E+00" massErrPlus="+7.0E-04" massErrMinus="-7.0E-04"
+	 widthGeV="3.22E-02" widthErrPlus="+9.0E-04" widthErrMinus="-9.0E-04" name="eta(c)(1S)" chrg="0">
+</particle>
+
+<particle pdg-mc="443" massGeV="3.096916E+00" massErrPlus="+1.1E-05" massErrMinus="-1.1E-05"
+	 widthGeV="9.29E-05" widthErrPlus="+2.8E-06" widthErrMinus="-2.8E-06" name="J/psi(1S)" chrg="0">
+</particle>
+
+<particle pdg-mc="10441" massGeV="3.41475E+00" massErrPlus="+3.1E-04" massErrMinus="-3.1E-04"
+	 widthGeV="1.05E-02" widthErrPlus="+6.0E-04" widthErrMinus="-6.0E-04" name="chi(c0)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="20443" massGeV="3.51066E+00" massErrPlus="+7.0E-05" massErrMinus="-7.0E-05"
+	 widthGeV="8.4E-04" widthErrPlus="+4.0E-05" widthErrMinus="-4.0E-05" name="chi(c1)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="10443" massGeV="3.52538E+00" massErrPlus="+1.1E-04" massErrMinus="-1.1E-04"
+	 widthGeV="7.E-04" widthErrPlus="+4.0E-04" widthErrMinus="-4.0E-04" name="h(c)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="445" massGeV="3.55620E+00" massErrPlus="+9.0E-05" massErrMinus="-9.0E-05"
+	 widthGeV="1.93E-03" widthErrPlus="+1.1E-04" widthErrMinus="-1.1E-04" name="chi(c2)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="100441" massGeV="3.6394E+00" massErrPlus="+1.3E-03" massErrMinus="-1.3E-03"
+	 widthGeV="1.13E-02" widthErrPlus="+3.2E-03" widthErrMinus="-2.9E-03" name="eta(c)(2S)" chrg="0">
+</particle>
+
+<particle pdg-mc="100443" massGeV="3.686109E+00" massErrPlus="+1.2E-05" massErrMinus="-1.4E-05"
+	 widthGeV="2.99E-04" widthErrPlus="+8.0E-06" widthErrMinus="-8.0E-06" name="psi(2S)" chrg="0">
+</particle>
+
+<particle pdg-mc="30443" massGeV="3.77315E+00" massErrPlus="+3.3E-04" massErrMinus="-3.3E-04"
+	 widthGeV="2.72E-02" widthErrPlus="+1.0E-03" widthErrMinus="-1.0E-03" name="psi(3770)" chrg="0">
+</particle>
+
+<particle pdg-mc="100445" massGeV="3.9272E+00" massErrPlus="+2.6E-03" massErrMinus="-2.6E-03"
+	 widthGeV="2.4E-02" widthErrPlus="+6.0E-03" widthErrMinus="-6.0E-03" name="chi(c2)(2P)" chrg="0">
+</particle>
+
+<particle pdg-mc="9000443" massGeV="4.0390E+00" massErrPlus="+1.0E-03" massErrMinus="-1.0E-03"
+	 widthGeV="8.0E-02" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="psi(4040)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010443" massGeV="4.191E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="7.0E-02" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="psi(4160)" chrg="0">
+</particle>
+
+<particle pdg-mc="9020443" massGeV="4.421E+00" massErrPlus="+4.0E-03" massErrMinus="-4.0E-03"
+	 widthGeV="6.2E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="psi(4415)" chrg="0">
+</particle>
+
+<particle pdg-mc="553" massGeV="9.46030E+00" massErrPlus="+2.6E-04" massErrMinus="-2.6E-04"
+	 widthGeV="5.40E-05" widthErrPlus="+1.3E-06" widthErrMinus="-1.3E-06" name="Upsilon(1S)" chrg="0">
+</particle>
+
+<particle pdg-mc="10551" massGeV="9.8594E+00" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="chi(b0)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="20553" massGeV="9.8928E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="chi(b1)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="10553" massGeV="9.8993E+00" massErrPlus="+1.0E-03" massErrMinus="-1.0E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="h(b)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="555" massGeV="9.9122E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="chi(b2)(1P)" chrg="0">
+</particle>
+
+<particle pdg-mc="100553" massGeV="1.002326E+01" massErrPlus="+3.1E-04" massErrMinus="-3.1E-04"
+	 widthGeV="3.20E-05" widthErrPlus="+2.6E-06" widthErrMinus="-2.6E-06" name="Upsilon(2S)" chrg="0">
+</particle>
+
+<particle pdg-mc="30553" massGeV="1.01637E+01" massErrPlus="+1.4E-03" massErrMinus="-1.4E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Upsilon(1D)" chrg="0">
+</particle>
+
+<particle pdg-mc="110551" massGeV="1.02325E+01" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="chi(b0)(2P)" chrg="0">
+</particle>
+
+<particle pdg-mc="120553" massGeV="1.02555E+01" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="chi(b1)(2P)" chrg="0">
+</particle>
+
+<particle pdg-mc="100555" massGeV="1.02686E+01" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="chi(b2)(2P)" chrg="0">
+</particle>
+
+<particle pdg-mc="200553" massGeV="1.03552E+01" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="2.03E-05" widthErrPlus="+1.9E-06" widthErrMinus="-1.9E-06" name="Upsilon(3S)" chrg="0">
+</particle>
+
+<particle pdg-mc="300553" massGeV="1.05794E+01" massErrPlus="+1.2E-03" massErrMinus="-1.2E-03"
+	 widthGeV="2.05E-02" widthErrPlus="+2.5E-03" widthErrMinus="-2.5E-03" name="Upsilon(4S)" chrg="0">
+</particle>
+
+<particle pdg-mc="9000553" massGeV="1.0876E+01" massErrPlus="+1.1E-02" massErrMinus="-1.1E-02"
+	 widthGeV="5.5E-02" widthErrPlus="+2.8E-02" widthErrMinus="-2.8E-02" name="Upsilon(10860)" chrg="0">
+</particle>
+
+<particle pdg-mc="9010553" massGeV="1.1019E+01" massErrPlus="+8.0E-03" massErrMinus="-8.0E-03"
+	 widthGeV="7.9E-02" widthErrPlus="+1.6E-02" widthErrMinus="-1.6E-02" name="Upsilon(11020)" chrg="0">
+</particle>
+
+<particle pdg-mc="2212" massGeV="9.38272046E-01" massErrPlus="+2.1E-08" massErrMinus="-2.1E-08"
+	 widthGeV="0.E+00" widthErrPlus="+0.0E+00" widthErrMinus="-0.0E+00" name="p" chrg="+">
+</particle>
+
+<particle pdg-mc="2112" massGeV="9.39565379E-01" massErrPlus="+2.1E-08" massErrMinus="-2.1E-08"
+	 widthGeV="7.477E-28" widthErrPlus="+1.0E-30" widthErrMinus="-1.0E-30" name="n" chrg="0">
+</particle>
+
+<particle pdg-mc="12112" massGeV="1.430E+00" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="3.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="N(1440)" chrg="0">
+</particle>
+
+<particle pdg-mc="12212" massGeV="1.430E+00" massErrPlus="+2.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="3.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="N(1440)" chrg="+">
+</particle>
+
+<particle pdg-mc="1214" massGeV="1.515E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.15E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.5E-02" name="N(1520)" chrg="0">
+</particle>
+
+<particle pdg-mc="2124" massGeV="1.515E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.15E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.5E-02" name="N(1520)" chrg="+">
+</particle>
+
+<particle pdg-mc="22112" massGeV="1.535E+00" massErrPlus="+1.0E-02" massErrMinus="-1.0E-02"
+	 widthGeV="1.50E-01" widthErrPlus="+2.5E-02" widthErrMinus="-2.5E-02" name="N(1535)" chrg="0">
+</particle>
+
+<particle pdg-mc="22212" massGeV="1.535E+00" massErrPlus="+1.0E-02" massErrMinus="-1.0E-02"
+	 widthGeV="1.50E-01" widthErrPlus="+2.5E-02" widthErrMinus="-2.5E-02" name="N(1535)" chrg="+">
+</particle>
+
+<particle pdg-mc="32112" massGeV="1.655E+00" massErrPlus="+1.5E-02" massErrMinus="-1.0E-02"
+	 widthGeV="1.40E-01" widthErrPlus="+3.0E-02" widthErrMinus="-3.0E-02" name="N(1650)" chrg="0">
+</particle>
+
+<particle pdg-mc="32212" massGeV="1.655E+00" massErrPlus="+1.5E-02" massErrMinus="-1.0E-02"
+	 widthGeV="1.40E-01" widthErrPlus="+3.0E-02" widthErrMinus="-3.0E-02" name="N(1650)" chrg="+">
+</particle>
+
+<particle pdg-mc="2116" massGeV="1.675E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.50E-01" widthErrPlus="+1.5E-02" widthErrMinus="-2.0E-02" name="N(1675)" chrg="0">
+</particle>
+
+<particle pdg-mc="2216" massGeV="1.675E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.50E-01" widthErrPlus="+1.5E-02" widthErrMinus="-2.0E-02" name="N(1675)" chrg="+">
+</particle>
+
+<particle pdg-mc="12116" massGeV="1.685E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.30E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="N(1680)" chrg="0">
+</particle>
+
+<particle pdg-mc="12216" massGeV="1.685E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.30E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="N(1680)" chrg="+">
+</particle>
+
+<particle pdg-mc="21214" massGeV="1.70E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="1.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-5.0E-02" name="N(1700)" chrg="0">
+</particle>
+
+<particle pdg-mc="22124" massGeV="1.70E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="1.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-5.0E-02" name="N(1700)" chrg="+">
+</particle>
+
+<particle pdg-mc="42112" massGeV="1.710E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.0E-01" widthErrPlus="+1.5E-01" widthErrMinus="-5.0E-02" name="N(1710)" chrg="0">
+</particle>
+
+<particle pdg-mc="42212" massGeV="1.710E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.0E-01" widthErrPlus="+1.5E-01" widthErrMinus="-5.0E-02" name="N(1710)" chrg="+">
+</particle>
+
+<particle pdg-mc="31214" massGeV="1.720E+00" massErrPlus="+3.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.5E-01" widthErrPlus="+1.5E-01" widthErrMinus="-1.0E-01" name="N(1720)" chrg="0">
+</particle>
+
+<particle pdg-mc="32124" massGeV="1.720E+00" massErrPlus="+3.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.5E-01" widthErrPlus="+1.5E-01" widthErrMinus="-1.0E-01" name="N(1720)" chrg="+">
+</particle>
+
+<particle pdg-mc="1218" massGeV="2.190E+00" massErrPlus="+1.0E-02" massErrMinus="-9.0E-02"
+	 widthGeV="5.0E-01" widthErrPlus="+2.0E-01" widthErrMinus="-2.0E-01" name="N(2190)" chrg="0">
+</particle>
+
+<particle pdg-mc="2128" massGeV="2.190E+00" massErrPlus="+1.0E-02" massErrMinus="-9.0E-02"
+	 widthGeV="5.0E-01" widthErrPlus="+2.0E-01" widthErrMinus="-2.0E-01" name="N(2190)" chrg="+">
+</particle>
+
+<particle pdg-mc="1114" massGeV="1.2320E+00" massErrPlus="+2.0E-03" massErrMinus="-2.0E-03"
+	 widthGeV="1.170E-01" widthErrPlus="+3.0E-03" widthErrMinus="-3.0E-03" name="Delta(1232)" chrg="-">
+</particle>
+
+<particle pdg-mc="2114" massGeV="1.2320E+00" massErrPlus="+2.0E-03" massErrMinus="-2.0E-03"
+	 widthGeV="1.170E-01" widthErrPlus="+3.0E-03" widthErrMinus="-3.0E-03" name="Delta(1232)" chrg="0">
+</particle>
+
+<particle pdg-mc="2214" massGeV="1.2320E+00" massErrPlus="+2.0E-03" massErrMinus="-2.0E-03"
+	 widthGeV="1.170E-01" widthErrPlus="+3.0E-03" widthErrMinus="-3.0E-03" name="Delta(1232)" chrg="+">
+</particle>
+
+<particle pdg-mc="2224" massGeV="1.2320E+00" massErrPlus="+2.0E-03" massErrMinus="-2.0E-03"
+	 widthGeV="1.170E-01" widthErrPlus="+3.0E-03" widthErrMinus="-3.0E-03" name="Delta(1232)" chrg="++">
+</particle>
+
+<particle pdg-mc="31114" massGeV="1.60E+00" massErrPlus="+1.0E-01" massErrMinus="-1.0E-01"
+	 widthGeV="3.2E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1600)" chrg="-">
+</particle>
+
+<particle pdg-mc="32114" massGeV="1.60E+00" massErrPlus="+1.0E-01" massErrMinus="-1.0E-01"
+	 widthGeV="3.2E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1600)" chrg="0">
+</particle>
+
+<particle pdg-mc="32214" massGeV="1.60E+00" massErrPlus="+1.0E-01" massErrMinus="-1.0E-01"
+	 widthGeV="3.2E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1600)" chrg="+">
+</particle>
+
+<particle pdg-mc="32224" massGeV="1.60E+00" massErrPlus="+1.0E-01" massErrMinus="-1.0E-01"
+	 widthGeV="3.2E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1600)" chrg="++">
+</particle>
+
+<particle pdg-mc="1112" massGeV="1.630E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.40E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="Delta(1620)" chrg="-">
+</particle>
+
+<particle pdg-mc="1212" massGeV="1.630E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.40E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="Delta(1620)" chrg="0">
+</particle>
+
+<particle pdg-mc="2122" massGeV="1.630E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.40E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="Delta(1620)" chrg="+">
+</particle>
+
+<particle pdg-mc="2222" massGeV="1.630E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.40E-01" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="Delta(1620)" chrg="++">
+</particle>
+
+<particle pdg-mc="11114" massGeV="1.700E+00" massErrPlus="+5.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="3.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1700)" chrg="-">
+</particle>
+
+<particle pdg-mc="12114" massGeV="1.700E+00" massErrPlus="+5.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="3.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1700)" chrg="0">
+</particle>
+
+<particle pdg-mc="12214" massGeV="1.700E+00" massErrPlus="+5.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="3.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1700)" chrg="+">
+</particle>
+
+<particle pdg-mc="12224" massGeV="1.700E+00" massErrPlus="+5.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="3.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Delta(1700)" chrg="++">
+</particle>
+
+<particle pdg-mc="1116" massGeV="1.880E+00" massErrPlus="+3.0E-02" massErrMinus="-2.5E-02"
+	 widthGeV="3.3E-01" widthErrPlus="+7.0E-02" widthErrMinus="-6.0E-02" name="Delta(1905)" chrg="-">
+</particle>
+
+<particle pdg-mc="1216" massGeV="1.880E+00" massErrPlus="+3.0E-02" massErrMinus="-2.5E-02"
+	 widthGeV="3.3E-01" widthErrPlus="+7.0E-02" widthErrMinus="-6.0E-02" name="Delta(1905)" chrg="0">
+</particle>
+
+<particle pdg-mc="2126" massGeV="1.880E+00" massErrPlus="+3.0E-02" massErrMinus="-2.5E-02"
+	 widthGeV="3.3E-01" widthErrPlus="+7.0E-02" widthErrMinus="-6.0E-02" name="Delta(1905)" chrg="+">
+</particle>
+
+<particle pdg-mc="2226" massGeV="1.880E+00" massErrPlus="+3.0E-02" massErrMinus="-2.5E-02"
+	 widthGeV="3.3E-01" widthErrPlus="+7.0E-02" widthErrMinus="-6.0E-02" name="Delta(1905)" chrg="++">
+</particle>
+
+<particle pdg-mc="21112" massGeV="1.890E+00" massErrPlus="+2.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="Delta(1910)" chrg="-">
+</particle>
+
+<particle pdg-mc="21212" massGeV="1.890E+00" massErrPlus="+2.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="Delta(1910)" chrg="0">
+</particle>
+
+<particle pdg-mc="22122" massGeV="1.890E+00" massErrPlus="+2.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="Delta(1910)" chrg="+">
+</particle>
+
+<particle pdg-mc="22222" massGeV="1.890E+00" massErrPlus="+2.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+6.0E-02" widthErrMinus="-6.0E-02" name="Delta(1910)" chrg="++">
+</particle>
+
+<particle pdg-mc="21114" massGeV="1.920E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.6E-01" widthErrPlus="+4.0E-02" widthErrMinus="-8.0E-02" name="Delta(1920)" chrg="-">
+</particle>
+
+<particle pdg-mc="22114" massGeV="1.920E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.6E-01" widthErrPlus="+4.0E-02" widthErrMinus="-8.0E-02" name="Delta(1920)" chrg="0">
+</particle>
+
+<particle pdg-mc="22214" massGeV="1.920E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.6E-01" widthErrPlus="+4.0E-02" widthErrMinus="-8.0E-02" name="Delta(1920)" chrg="+">
+</particle>
+
+<particle pdg-mc="22224" massGeV="1.920E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.6E-01" widthErrPlus="+4.0E-02" widthErrMinus="-8.0E-02" name="Delta(1920)" chrg="++">
+</particle>
+
+<particle pdg-mc="11116" massGeV="1.95E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="3.6E-01" widthErrPlus="+1.4E-01" widthErrMinus="-1.4E-01" name="Delta(1930)" chrg="-">
+</particle>
+
+<particle pdg-mc="11216" massGeV="1.95E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="3.6E-01" widthErrPlus="+1.4E-01" widthErrMinus="-1.4E-01" name="Delta(1930)" chrg="0">
+</particle>
+
+<particle pdg-mc="12126" massGeV="1.95E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="3.6E-01" widthErrPlus="+1.4E-01" widthErrMinus="-1.4E-01" name="Delta(1930)" chrg="+">
+</particle>
+
+<particle pdg-mc="12226" massGeV="1.95E+00" massErrPlus="+5.0E-02" massErrMinus="-5.0E-02"
+	 widthGeV="3.6E-01" widthErrPlus="+1.4E-01" widthErrMinus="-1.4E-01" name="Delta(1930)" chrg="++">
+</particle>
+
+<particle pdg-mc="1118" massGeV="1.930E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+5.0E-02" widthErrMinus="-5.0E-02" name="Delta(1950)" chrg="-">
+</particle>
+
+<particle pdg-mc="2118" massGeV="1.930E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+5.0E-02" widthErrMinus="-5.0E-02" name="Delta(1950)" chrg="0">
+</particle>
+
+<particle pdg-mc="2218" massGeV="1.930E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+5.0E-02" widthErrMinus="-5.0E-02" name="Delta(1950)" chrg="+">
+</particle>
+
+<particle pdg-mc="2228" massGeV="1.930E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="2.8E-01" widthErrPlus="+5.0E-02" widthErrMinus="-5.0E-02" name="Delta(1950)" chrg="++">
+</particle>
+
+<particle pdg-mc="3122" massGeV="1.115683E+00" massErrPlus="+6.0E-06" massErrMinus="-6.0E-06"
+	 widthGeV="2.501E-15" widthErrPlus="+1.9E-17" widthErrMinus="-1.9E-17" name="Lambda" chrg="0">
+</particle>
+
+<particle pdg-mc="13122" massGeV="1.4051E+00" massErrPlus="+1.3E-03" massErrMinus="-1.0E-03"
+	 widthGeV="5.05E-02" widthErrPlus="+2.0E-03" widthErrMinus="-2.0E-03" name="Lambda(1405)" chrg="0">
+</particle>
+
+<particle pdg-mc="3124" massGeV="1.5195E+00" massErrPlus="+1.0E-03" massErrMinus="-1.0E-03"
+	 widthGeV="1.56E-02" widthErrPlus="+1.0E-03" widthErrMinus="-1.0E-03" name="Lambda(1520)" chrg="0">
+</particle>
+
+<particle pdg-mc="23122" massGeV="1.60E+00" massErrPlus="+1.0E-01" massErrMinus="-4.0E-02"
+	 widthGeV="1.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Lambda(1600)" chrg="0">
+</particle>
+
+<particle pdg-mc="33122" massGeV="1.670E+00" massErrPlus="+1.0E-02" massErrMinus="-1.0E-02"
+	 widthGeV="3.5E-02" widthErrPlus="+1.5E-02" widthErrMinus="-1.0E-02" name="Lambda(1670)" chrg="0">
+</particle>
+
+<particle pdg-mc="13124" massGeV="1.690E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="6.0E-02" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="Lambda(1690)" chrg="0">
+</particle>
+
+<particle pdg-mc="43122" massGeV="1.80E+00" massErrPlus="+5.0E-02" massErrMinus="-8.0E-02"
+	 widthGeV="3.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Lambda(1800)" chrg="0">
+</particle>
+
+<particle pdg-mc="53122" massGeV="1.81E+00" massErrPlus="+4.0E-02" massErrMinus="-6.0E-02"
+	 widthGeV="1.5E-01" widthErrPlus="+1.0E-01" widthErrMinus="-1.0E-01" name="Lambda(1810)" chrg="0">
+</particle>
+
+<particle pdg-mc="3126" massGeV="1.820E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="8.0E-02" widthErrPlus="+1.0E-02" widthErrMinus="-1.0E-02" name="Lambda(1820)" chrg="0">
+</particle>
+
+<particle pdg-mc="13126" massGeV="1.830E+00" massErrPlus="+0.0E+00" massErrMinus="-2.0E-02"
+	 widthGeV="9.5E-02" widthErrPlus="+1.5E-02" widthErrMinus="-3.5E-02" name="Lambda(1830)" chrg="0">
+</particle>
+
+<particle pdg-mc="23124" massGeV="1.890E+00" massErrPlus="+2.0E-02" massErrMinus="-4.0E-02"
+	 widthGeV="1.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-4.0E-02" name="Lambda(1890)" chrg="0">
+</particle>
+
+<particle pdg-mc="3128" massGeV="2.100E+00" massErrPlus="+1.0E-02" massErrMinus="-1.0E-02"
+	 widthGeV="2.0E-01" widthErrPlus="+5.0E-02" widthErrMinus="-1.0E-01" name="Lambda(2100)" chrg="0">
+</particle>
+
+<particle pdg-mc="23126" massGeV="2.110E+00" massErrPlus="+3.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="2.0E-01" widthErrPlus="+5.0E-02" widthErrMinus="-5.0E-02" name="Lambda(2110)" chrg="0">
+</particle>
+
+<particle pdg-mc="3222" massGeV="1.18937E+00" massErrPlus="+7.0E-05" massErrMinus="-7.0E-05"
+	 widthGeV="8.209E-15" widthErrPlus="+2.7E-17" widthErrMinus="-2.7E-17" name="Sigma" chrg="+">
+</particle>
+
+<particle pdg-mc="3212" massGeV="1.192642E+00" massErrPlus="+2.4E-05" massErrMinus="-2.4E-05"
+	 widthGeV="8.9E-06" widthErrPlus="+9.0E-07" widthErrMinus="-8.0E-07" name="Sigma" chrg="0">
+</particle>
+
+<particle pdg-mc="3112" massGeV="1.197449E+00" massErrPlus="+3.0E-05" massErrMinus="-3.0E-05"
+	 widthGeV="4.450E-15" widthErrPlus="+3.2E-17" widthErrMinus="-3.2E-17" name="Sigma" chrg="-">
+</particle>
+
+<particle pdg-mc="3114" massGeV="1.3872E+00" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="3.94E-02" widthErrPlus="+2.1E-03" widthErrMinus="-2.1E-03" name="Sigma(1385)" chrg="-">
+</particle>
+
+<particle pdg-mc="3214" massGeV="1.3837E+00" massErrPlus="+1.0E-03" massErrMinus="-1.0E-03"
+	 widthGeV="3.6E-02" widthErrPlus="+5.0E-03" widthErrMinus="-5.0E-03" name="Sigma(1385)" chrg="0">
+</particle>
+
+<particle pdg-mc="3224" massGeV="1.38280E+00" massErrPlus="+3.5E-04" massErrMinus="-3.5E-04"
+	 widthGeV="3.60E-02" widthErrPlus="+7.0E-04" widthErrMinus="-7.0E-04" name="Sigma(1385)" chrg="+">
+</particle>
+
+<particle pdg-mc="13112" massGeV="1.660E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-6.0E-02" name="Sigma(1660)" chrg="-">
+</particle>
+
+<particle pdg-mc="13212" massGeV="1.660E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-6.0E-02" name="Sigma(1660)" chrg="0">
+</particle>
+
+<particle pdg-mc="13222" massGeV="1.660E+00" massErrPlus="+3.0E-02" massErrMinus="-3.0E-02"
+	 widthGeV="1.0E-01" widthErrPlus="+1.0E-01" widthErrMinus="-6.0E-02" name="Sigma(1660)" chrg="+">
+</particle>
+
+<particle pdg-mc="13114" massGeV="1.670E+00" massErrPlus="+1.5E-02" massErrMinus="-5.0E-03"
+	 widthGeV="6.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="Sigma(1670)" chrg="-">
+</particle>
+
+<particle pdg-mc="13214" massGeV="1.670E+00" massErrPlus="+1.5E-02" massErrMinus="-5.0E-03"
+	 widthGeV="6.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="Sigma(1670)" chrg="0">
+</particle>
+
+<particle pdg-mc="13224" massGeV="1.670E+00" massErrPlus="+1.5E-02" massErrMinus="-5.0E-03"
+	 widthGeV="6.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="Sigma(1670)" chrg="+">
+</particle>
+
+<particle pdg-mc="23112" massGeV="1.750E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="9.0E-02" widthErrPlus="+7.0E-02" widthErrMinus="-3.0E-02" name="Sigma(1750)" chrg="-">
+</particle>
+
+<particle pdg-mc="23212" massGeV="1.750E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="9.0E-02" widthErrPlus="+7.0E-02" widthErrMinus="-3.0E-02" name="Sigma(1750)" chrg="0">
+</particle>
+
+<particle pdg-mc="23222" massGeV="1.750E+00" massErrPlus="+5.0E-02" massErrMinus="-2.0E-02"
+	 widthGeV="9.0E-02" widthErrPlus="+7.0E-02" widthErrMinus="-3.0E-02" name="Sigma(1750)" chrg="+">
+</particle>
+
+<particle pdg-mc="3116" massGeV="1.775E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.20E-01" widthErrPlus="+1.5E-02" widthErrMinus="-1.5E-02" name="Sigma(1775)" chrg="-">
+</particle>
+
+<particle pdg-mc="3216" massGeV="1.775E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.20E-01" widthErrPlus="+1.5E-02" widthErrMinus="-1.5E-02" name="Sigma(1775)" chrg="0">
+</particle>
+
+<particle pdg-mc="3226" massGeV="1.775E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="1.20E-01" widthErrPlus="+1.5E-02" widthErrMinus="-1.5E-02" name="Sigma(1775)" chrg="+">
+</particle>
+
+<particle pdg-mc="13116" massGeV="1.915E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="1.2E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="Sigma(1915)" chrg="-">
+</particle>
+
+<particle pdg-mc="13216" massGeV="1.915E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="1.2E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="Sigma(1915)" chrg="0">
+</particle>
+
+<particle pdg-mc="13226" massGeV="1.915E+00" massErrPlus="+2.0E-02" massErrMinus="-1.5E-02"
+	 widthGeV="1.2E-01" widthErrPlus="+4.0E-02" widthErrMinus="-4.0E-02" name="Sigma(1915)" chrg="+">
+</particle>
+
+<particle pdg-mc="23114" massGeV="1.940E+00" massErrPlus="+1.0E-02" massErrMinus="-4.0E-02"
+	 widthGeV="2.2E-01" widthErrPlus="+8.0E-02" widthErrMinus="-7.0E-02" name="Sigma(1940)" chrg="-">
+</particle>
+
+<particle pdg-mc="23214" massGeV="1.940E+00" massErrPlus="+1.0E-02" massErrMinus="-4.0E-02"
+	 widthGeV="2.2E-01" widthErrPlus="+8.0E-02" widthErrMinus="-7.0E-02" name="Sigma(1940)" chrg="0">
+</particle>
+
+<particle pdg-mc="23224" massGeV="1.940E+00" massErrPlus="+1.0E-02" massErrMinus="-4.0E-02"
+	 widthGeV="2.2E-01" widthErrPlus="+8.0E-02" widthErrMinus="-7.0E-02" name="Sigma(1940)" chrg="+">
+</particle>
+
+<particle pdg-mc="3118" massGeV="2.030E+00" massErrPlus="+1.0E-02" massErrMinus="-5.0E-03"
+	 widthGeV="1.80E-01" widthErrPlus="+2.0E-02" widthErrMinus="-3.0E-02" name="Sigma(2030)" chrg="-">
+</particle>
+
+<particle pdg-mc="3218" massGeV="2.030E+00" massErrPlus="+1.0E-02" massErrMinus="-5.0E-03"
+	 widthGeV="1.80E-01" widthErrPlus="+2.0E-02" widthErrMinus="-3.0E-02" name="Sigma(2030)" chrg="0">
+</particle>
+
+<particle pdg-mc="3228" massGeV="2.030E+00" massErrPlus="+1.0E-02" massErrMinus="-5.0E-03"
+	 widthGeV="1.80E-01" widthErrPlus="+2.0E-02" widthErrMinus="-3.0E-02" name="Sigma(2030)" chrg="+">
+</particle>
+
+<particle pdg-mc="3322" massGeV="1.31486E+00" massErrPlus="+2.0E-04" massErrMinus="-2.0E-04"
+	 widthGeV="2.27E-15" widthErrPlus="+7.0E-17" widthErrMinus="-7.0E-17" name="Xi" chrg="0">
+</particle>
+
+<particle pdg-mc="3312" massGeV="1.32171E+00" massErrPlus="+7.0E-05" massErrMinus="-7.0E-05"
+	 widthGeV="4.02E-15" widthErrPlus="+4.0E-17" widthErrMinus="-4.0E-17" name="Xi" chrg="-">
+</particle>
+
+<particle pdg-mc="3314" massGeV="1.5350E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="9.9E-03" widthErrPlus="+1.7E-03" widthErrMinus="-1.9E-03" name="Xi(1530)" chrg="-">
+</particle>
+
+<particle pdg-mc="3324" massGeV="1.53180E+00" massErrPlus="+3.2E-04" massErrMinus="-3.2E-04"
+	 widthGeV="9.1E-03" widthErrPlus="+5.0E-04" widthErrMinus="-5.0E-04" name="Xi(1530)" chrg="0">
+</particle>
+
+<particle pdg-mc="203312" massGeV="1.690E+00" massErrPlus="+1.0E-02" massErrMinus="-1.0E-02"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(1690)" chrg="-">
+</particle>
+
+<particle pdg-mc="203322" massGeV="1.690E+00" massErrPlus="+1.0E-02" massErrMinus="-1.0E-02"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(1690)" chrg="0">
+</particle>
+
+<particle pdg-mc="13314" massGeV="1.823E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="2.4E-02" widthErrPlus="+1.5E-02" widthErrMinus="-1.0E-02" name="Xi(1820)" chrg="-">
+</particle>
+
+<particle pdg-mc="13324" massGeV="1.823E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="2.4E-02" widthErrPlus="+1.5E-02" widthErrMinus="-1.0E-02" name="Xi(1820)" chrg="0">
+</particle>
+
+<particle pdg-mc="103316" massGeV="1.950E+00" massErrPlus="+1.5E-02" massErrMinus="-1.5E-02"
+	 widthGeV="6.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="Xi(1950)" chrg="-">
+</particle>
+
+<particle pdg-mc="103326" massGeV="1.950E+00" massErrPlus="+1.5E-02" massErrMinus="-1.5E-02"
+	 widthGeV="6.0E-02" widthErrPlus="+2.0E-02" widthErrMinus="-2.0E-02" name="Xi(1950)" chrg="0">
+</particle>
+
+<particle pdg-mc="203316" massGeV="2.025E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="2.0E-02" widthErrPlus="+1.5E-02" widthErrMinus="-5.0E-03" name="Xi(2030)" chrg="-">
+</particle>
+
+<particle pdg-mc="203326" massGeV="2.025E+00" massErrPlus="+5.0E-03" massErrMinus="-5.0E-03"
+	 widthGeV="2.0E-02" widthErrPlus="+1.5E-02" widthErrMinus="-5.0E-03" name="Xi(2030)" chrg="0">
+</particle>
+
+<particle pdg-mc="3334" massGeV="1.67245E+00" massErrPlus="+2.9E-04" massErrMinus="-2.9E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Omega" chrg="-">
+</particle>
+
+<particle pdg-mc="203338" massGeV="2.252E+00" massErrPlus="+9.0E-03" massErrMinus="-9.0E-03"
+	 widthGeV="5.5E-02" widthErrPlus="+1.8E-02" widthErrMinus="-1.8E-02" name="Omega(2250)" chrg="-">
+</particle>
+
+<particle pdg-mc="4122" massGeV="2.28646E+00" massErrPlus="+1.4E-04" massErrMinus="-1.4E-04"
+	 widthGeV="3.30E-12" widthErrPlus="+9.0E-14" widthErrMinus="-9.0E-14" name="Lambda(c)" chrg="+">
+</particle>
+
+<particle pdg-mc="14122" massGeV="2.59225E+00" massErrPlus="+2.8E-04" massErrMinus="-2.8E-04"
+	 widthGeV="2.6E-03" widthErrPlus="+6.0E-04" widthErrMinus="-6.0E-04" name="Lambda(c)(2595)" chrg="+">
+</particle>
+
+<particle pdg-mc="104122" massGeV="2.62811E+00" massErrPlus="+1.9E-04" massErrMinus="-1.9E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Lambda(c)(2625)" chrg="+">
+</particle>
+
+<particle pdg-mc="204126" massGeV="2.88153E+00" massErrPlus="+3.5E-04" massErrMinus="-3.5E-04"
+	 widthGeV="5.8E-03" widthErrPlus="+1.1E-03" widthErrMinus="-1.1E-03" name="Lambda(c)(2880)" chrg="+">
+</particle>
+
+<particle pdg-mc="4112" massGeV="2.45374E+00" massErrPlus="+1.6E-04" massErrMinus="-1.6E-04"
+	 widthGeV="2.16E-03" widthErrPlus="+2.6E-04" widthErrMinus="-2.6E-04" name="Sigma(c)(2455)" chrg="0">
+</particle>
+
+<particle pdg-mc="4212" massGeV="2.4529E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Sigma(c)(2455)" chrg="+">
+</particle>
+
+<particle pdg-mc="4222" massGeV="2.45398E+00" massErrPlus="+1.6E-04" massErrMinus="-1.6E-04"
+	 widthGeV="2.26E-03" widthErrPlus="+2.5E-04" widthErrMinus="-2.5E-04" name="Sigma(c)(2455)" chrg="++">
+</particle>
+
+<particle pdg-mc="4114" massGeV="2.5188E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="1.45E-02" widthErrPlus="+1.5E-03" widthErrMinus="-1.5E-03" name="Sigma(c)(2520)" chrg="0">
+</particle>
+
+<particle pdg-mc="4214" massGeV="2.5175E+00" massErrPlus="+2.3E-03" massErrMinus="-2.3E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Sigma(c)(2520)" chrg="+">
+</particle>
+
+<particle pdg-mc="4224" massGeV="2.5179E+00" massErrPlus="+6.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="1.49E-02" widthErrPlus="+1.5E-03" widthErrMinus="-1.5E-03" name="Sigma(c)(2520)" chrg="++">
+</particle>
+
+<particle pdg-mc="4232" massGeV="2.4678E+00" massErrPlus="+4.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="1.49E-12" widthErrPlus="+9.0E-14" widthErrMinus="-9.0E-14" name="Xi(c)" chrg="+">
+</particle>
+
+<particle pdg-mc="4132" massGeV="2.47088E+00" massErrPlus="+3.4E-04" massErrMinus="-8.0E-04"
+	 widthGeV="5.9E-12" widthErrPlus="+6.0E-13" widthErrMinus="-6.0E-13" name="Xi(c)" chrg="0">
+</particle>
+
+<particle pdg-mc="4322" massGeV="2.5756E+00" massErrPlus="+3.1E-03" massErrMinus="-3.1E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)'" chrg="+">
+</particle>
+
+<particle pdg-mc="4312" massGeV="2.5779E+00" massErrPlus="+2.9E-03" massErrMinus="-2.9E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)'" chrg="0">
+</particle>
+
+<particle pdg-mc="4314" massGeV="2.6459E+00" massErrPlus="+5.0E-04" massErrMinus="-5.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)(2645)" chrg="0">
+</particle>
+
+<particle pdg-mc="4324" massGeV="2.6459E+00" massErrPlus="+5.0E-04" massErrMinus="-6.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)(2645)" chrg="+">
+</particle>
+
+<particle pdg-mc="104314" massGeV="2.7918E+00" massErrPlus="+3.3E-03" massErrMinus="-3.3E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)(2790)" chrg="0">
+</particle>
+
+<particle pdg-mc="104324" massGeV="2.7891E+00" massErrPlus="+3.2E-03" massErrMinus="-3.2E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)(2790)" chrg="+">
+</particle>
+
+<particle pdg-mc="104312" massGeV="2.8196E+00" massErrPlus="+1.2E-03" massErrMinus="-1.2E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)(2815)" chrg="0">
+</particle>
+
+<particle pdg-mc="104322" massGeV="2.8166E+00" massErrPlus="+9.0E-04" massErrMinus="-9.0E-04"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Xi(c)(2815)" chrg="+">
+</particle>
+
+<particle pdg-mc="4332" massGeV="2.6952E+00" massErrPlus="+1.7E-03" massErrMinus="-1.7E-03"
+	 widthGeV="9.6E-12" widthErrPlus="+2.1E-12" widthErrMinus="-1.4E-12" name="Omega(c)" chrg="0">
+</particle>
+
+<particle pdg-mc="4334" massGeV="2.7659E+00" massErrPlus="+2.0E-03" massErrMinus="-2.0E-03"
+	 widthGeV="" widthErrPlus="" widthErrMinus="" name="Omega(c)(2770)" chrg="0">
+</particle>
+
+<particle pdg-mc="5122" massGeV="5.6195E+00" massErrPlus="+4.0E-04" massErrMinus="-4.0E-04"
+	 widthGeV="4.54E-13" widthErrPlus="+4.0E-15" widthErrMinus="-4.0E-15" name="Lambda(b)" chrg="0">
+</particle>
+
+<particle pdg-mc="5112" massGeV="5.8155E+00" massErrPlus="+1.8E-03" massErrMinus="-1.8E-03"
+	 widthGeV="4.9E-03" widthErrPlus="+3.3E-03" widthErrMinus="-2.4E-03" name="Sigma(b)" chrg="-">
+</particle>
+
+<particle pdg-mc="5222" massGeV="5.8113E+00" massErrPlus="+1.9E-03" massErrMinus="-1.9E-03"
+	 widthGeV="9.7E-03" widthErrPlus="+4.0E-03" widthErrMinus="-3.0E-03" name="Sigma(b)" chrg="+">
+</particle>
+
+<particle pdg-mc="5114" massGeV="5.8351E+00" massErrPlus="+1.9E-03" massErrMinus="-1.9E-03"
+	 widthGeV="7.5E-03" widthErrPlus="+2.3E-03" widthErrMinus="-2.3E-03" name="Sigma(b)*" chrg="-">
+</particle>
+
+<particle pdg-mc="5224" massGeV="5.8321E+00" massErrPlus="+1.9E-03" massErrMinus="-1.9E-03"
+	 widthGeV="1.15E-02" widthErrPlus="+2.8E-03" widthErrMinus="-2.8E-03" name="Sigma(b)*" chrg="+">
+</particle>
+
+<particle pdg-mc="5132" massGeV="5.7949E+00" massErrPlus="+9.0E-04" massErrMinus="-9.0E-04"
+	 widthGeV="4.2E-13" widthErrPlus="+8.0E-14" widthErrMinus="-6.0E-14" name="Xi(b)" chrg="-">
+</particle>
+
+<particle pdg-mc="5232" massGeV="5.7931E+00" massErrPlus="+2.5E-03" massErrMinus="-2.5E-03"
+	 widthGeV="4.4E-13" widthErrPlus="+6.0E-14" widthErrMinus="-5.0E-14" name="Xi(b)" chrg="0">
+</particle>
+
+<particle pdg-mc="5332" massGeV="6.0488E+00" massErrPlus="+3.2E-03" massErrMinus="-3.2E-03"
+	 widthGeV="5.8E-13" widthErrPlus="+3.2E-13" widthErrMinus="-1.9E-13" name="Omega(b)" chrg="-">
+</particle>
+
+</data>

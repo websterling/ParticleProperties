@@ -1,0 +1,3028 @@
+<?xml version="1.0"?>
+<data>
+<particle massMeV="0.0E+00" massErrPlus="0.0E+00" massErrMinus="0.0E+00" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="" g="" j="1/2" p="" c="" a=""
+	 pdg-mc="12" chrg="0" r="" s="R" name="nu_e" quarks="">
+</particle>
+
+<particle massMeV="0.0E+00" massErrPlus="0.0E+00" massErrMinus="0.0E+00" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="" g="" j="1/2" p="" c="" a=""
+	 pdg-mc="14" chrg="0" r="" s="R" name="nu_mu" quarks="">
+</particle>
+
+<particle massMeV="0.0E+00" massErrPlus="0.0E+00" massErrMinus="0.0E+00" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="" g="" j="1/2" p="" c="" a=""
+	 pdg-mc="16" chrg="0" r="" s="R" name="nu_tau" quarks="">
+</particle>
+
+<particle massMeV="1.257E+05" massErrPlus="4.0E+02" massErrMinus="4.0E+02" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="" g="" j="0" p="+" c="" a=""
+	 pdg-mc="25" chrg="0" r="" s="R" name="higgs" quarks="">
+</particle>
+
+<particle massMeV="0.0E+00" massErrPlus="0.0E+00" massErrMinus="0.0E+00" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="lt2" g="" j="1" p="-" c="-" a=""
+	 pdg-mc="22" chrg="0" r="" s="R" name="gamma" quarks="">
+</particle>
+
+<particle massMeV="8.0403E+04" massErrPlus="2.9E+01" massErrMinus="2.9E+01" widthMeV="2.14E+03"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="" g="" j="1" p="" c="" a="B"
+	 pdg-mc="24" chrg="+" r="" s="R" name="W" quarks="">
+</particle>
+
+<particle massMeV="9.11876E+04" massErrPlus="2.1E+00" massErrMinus="2.1E+00" widthMeV="2.4952E+03"
+	 widthErrPlus="2.3E+00" widthErrMinus="2.3E+00" i="" g="" j="1" p="" c="" a=""
+	 pdg-mc="23" chrg="0" r="" s="R" name="Z" quarks="">
+</particle>
+
+<particle massMeV="5.1099892E-01" massErrPlus="4.0E-08" massErrMinus="4.0E-08" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="" g="" j="1/2" p="" c="" a="B"
+	 pdg-mc="11" chrg="-" r="" s="R" name="e" quarks="">
+</particle>
+
+<particle massMeV="1.05658369E+02" massErrPlus="9.0E-06" massErrMinus="9.0E-06" widthMeV="2.99591E-16"
+	 widthErrPlus="5.0E-21" widthErrMinus="5.0E-21" i="" g="" j="1/2" p="" c="" a="B"
+	 pdg-mc="13" chrg="-" r="" s="R" name="mu" quarks="">
+</particle>
+
+<particle massMeV="1.77699E+03" massErrPlus="2.9E-01" massErrMinus="2.6E-01" widthMeV="2.265E-09"
+	 widthErrPlus="8.0E-12" widthErrMinus="8.0E-12" i="" g="" j="1/2" p="" c="" a="B"
+	 pdg-mc="15" chrg="-" r="" s="R" name="tau" quarks="">
+</particle>
+
+<particle massMeV="2.2E+00" massErrPlus="8.0E-01" massErrMinus="8.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="2" chrg="+2/3" r="" s="R" name="u" quarks="u">
+</particle>
+
+<particle massMeV="5.0E+00" massErrPlus="2.0E+00" massErrMinus="2.0E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="1" chrg="-1/3" r="" s="R" name="d" quarks="d">
+</particle>
+
+<particle massMeV="9.5E+01" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3" chrg="-1/3" r="" s="R" name="s" quarks="s">
+</particle>
+
+<particle massMeV="1.25E+03" massErrPlus="9.0E+01" massErrMinus="9.0E+01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4" chrg="+2/3" r="" s="R" name="c" quarks="c">
+</particle>
+
+<particle massMeV="4.20E+03" massErrPlus="7.0E+01" massErrMinus="7.0E+01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="5" chrg="-1/3" r="" s="R" name="b" quarks="b">
+</particle>
+
+<particle massMeV="1.742E+05" massErrPlus="3.3E+03" massErrMinus="3.3E+03" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="6" chrg="+2/3" r="" s="R" name="t" quarks="t">
+</particle>
+
+<particle massMeV="1.3957018E+02" massErrPlus="3.5E-04" massErrMinus="3.5E-04" widthMeV="2.5284E-14"
+	 widthErrPlus="5.0E-18" widthErrMinus="5.0E-18" i="1" g="-" j="0" p="-" c="" a="B"
+	 pdg-mc="211" chrg="+" r="" s="R" name="pi" quarks="uD">
+</particle>
+
+<particle massMeV="1.349766E+02" massErrPlus="6.0E-04" massErrMinus="6.0E-04" widthMeV="7.8E-06"
+	 widthErrPlus="6.0E-07" widthErrMinus="5.0E-07" i="1" g="-" j="0" p="-" c="+" a=""
+	 pdg-mc="111" chrg="0" r="" s="R" name="pi" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="5.4751E+02" massErrPlus="1.8E-01" massErrMinus="1.8E-01" widthMeV="1.30E-03"
+	 widthErrPlus="7.0E-05" widthErrMinus="7.0E-05" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="221" chrg="0" r="" s="R" name="eta" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="8.0E+02" massErrPlus="4.0E+02" massErrMinus="4.0E+02" widthMeV="8.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="9000221" chrg="0" r="" s="R" name="f(0)(600)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="7.755E+02" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="1.4940E+02"
+	 widthErrPlus="1.0E+00" widthErrMinus="1.0E+00" i="1" g="+" j="1" p="-" c="" a="B"
+	 pdg-mc="213" chrg="+" r="" s="R" name="rho(770)" quarks="uD">
+</particle>
+
+<particle massMeV="7.755E+02" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="1.4940E+02"
+	 widthErrPlus="1.0E+00" widthErrMinus="1.0E+00" i="1" g="+" j="1" p="-" c="-" a="B"
+	 pdg-mc="113" chrg="0" r="" s="R" name="rho(770)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="7.8265E+02" massErrPlus="1.2E-01" massErrMinus="1.2E-01" widthMeV="8.49E+00"
+	 widthErrPlus="8.0E-02" widthErrMinus="8.0E-02" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="223" chrg="0" r="" s="R" name="omega(782)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="9.5778E+02" massErrPlus="1.4E-01" massErrMinus="1.4E-01" widthMeV="2.03E-01"
+	 widthErrPlus="1.6E-02" widthErrMinus="1.6E-02" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="331" chrg="0" r="" s="R" name="eta'(958)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="9.800E+02" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="7.0E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="9010221" chrg="0" r="" s="R" name="f(0)(980)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="9.847E+02" massErrPlus="1.2E+00" massErrMinus="1.2E+00" widthMeV="7.5E+01"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="-" j="0" p="+" c="" a="B"
+	 pdg-mc="9000211" chrg="+" r="" s="R" name="a(0)(980)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="9.847E+02" massErrPlus="1.2E+00" massErrMinus="1.2E+00" widthMeV="7.5E+01"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="-" j="0" p="+" c="+" a="B"
+	 pdg-mc="9000111" chrg="0" r="" s="R" name="a(0)(980)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.019460E+03" massErrPlus="1.9E-02" massErrMinus="1.9E-02" widthMeV="4.26E+00"
+	 widthErrPlus="5.0E-02" widthErrMinus="5.0E-02" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="333" chrg="0" r="" s="R" name="phi(1020)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.170E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="3.6E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="-" j="1" p="+" c="-" a=""
+	 pdg-mc="10223" chrg="0" r="" s="R" name="h(1)(1170)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.2295E+03" massErrPlus="3.2E+00" massErrMinus="3.2E+00" widthMeV="1.42E+02"
+	 widthErrPlus="9.0E+00" widthErrMinus="9.0E+00" i="1" g="+" j="1" p="+" c="" a="B"
+	 pdg-mc="10213" chrg="+" r="" s="R" name="b(1)(1235)" quarks="uD">
+</particle>
+
+<particle massMeV="1.2295E+03" massErrPlus="3.2E+00" massErrMinus="3.2E+00" widthMeV="1.42E+02"
+	 widthErrPlus="9.0E+00" widthErrMinus="9.0E+00" i="1" g="+" j="1" p="+" c="-" a="B"
+	 pdg-mc="10113" chrg="0" r="" s="R" name="b(1)(1235)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.23E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="4.2E+02"
+	 widthErrPlus="1.8E+02" widthErrMinus="1.8E+02" i="1" g="-" j="1" p="+" c="" a="B"
+	 pdg-mc="20213" chrg="+" r="" s="R" name="a(1)(1260)" quarks="uD">
+</particle>
+
+<particle massMeV="1.23E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="4.2E+02"
+	 widthErrPlus="1.8E+02" widthErrMinus="1.8E+02" i="1" g="-" j="1" p="+" c="+" a="B"
+	 pdg-mc="20113" chrg="0" r="" s="R" name="a(1)(1260)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.2754E+03" massErrPlus="1.1E+00" massErrMinus="1.1E+00" widthMeV="1.852E+02"
+	 widthErrPlus="3.1E+00" widthErrMinus="2.5E+00" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="225" chrg="0" r="" s="R" name="f(2)(1270)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.2818E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="2.42E+01"
+	 widthErrPlus="1.1E+00" widthErrMinus="1.1E+00" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="20223" chrg="0" r="" s="R" name="f(1)(1285)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.294E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="5.5E+01"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="100221" chrg="0" r="" s="R" name="eta(1295)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.300E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="4.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="1" g="-" j="0" p="-" c="" a="B"
+	 pdg-mc="100211" chrg="+" r="" s="R" name="pi(1300)" quarks="uD">
+</particle>
+
+<particle massMeV="1.300E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="4.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="1" g="-" j="0" p="-" c="+" a="B"
+	 pdg-mc="100111" chrg="0" r="" s="R" name="pi(1300)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.3183E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="1.07E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="1" g="-" j="2" p="+" c="" a="B"
+	 pdg-mc="215" chrg="+" r="" s="R" name="a(2)(1320)" quarks="uD">
+</particle>
+
+<particle massMeV="1.3183E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="1.07E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="1" g="-" j="2" p="+" c="+" a="B"
+	 pdg-mc="115" chrg="0" r="" s="R" name="a(2)(1320)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.35E+03" massErrPlus="1.5E+02" massErrMinus="1.5E+02" widthMeV="3.5E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="30221" chrg="0" r="" s="R" name="f(0)(1370)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.386E+03" massErrPlus="1.9E+01" massErrMinus="1.9E+01" widthMeV="9.1E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="?" g="-" j="1" p="+" c="-" a=""
+	 pdg-mc="10333" chrg="0" r="" s="S" name="h(1)(1380)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.376E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="3.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="1" p="-" c="" a=""
+	 pdg-mc="9000213" chrg="+" r="" s="R" name="pi(1)(1400)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.376E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="3.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="1" p="-" c="+" a=""
+	 pdg-mc="9000113" chrg="0" r="" s="R" name="pi(1)(1400)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.4098E+03" massErrPlus="2.5E+00" massErrMinus="2.5E+00" widthMeV="5.11E+01"
+	 widthErrPlus="3.4E+00" widthErrMinus="3.4E+00" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="9020221" chrg="0" r="" s="R" name="eta(1405)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.4263E+03" massErrPlus="9.0E-01" massErrMinus="9.0E-01" widthMeV="5.49E+01"
+	 widthErrPlus="2.6E+00" widthErrMinus="2.6E+00" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="20333" chrg="0" r="" s="R" name="f(1)(1420)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.425E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="2.15E+02"
+	 widthErrPlus="3.5E+01" widthErrMinus="3.5E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="100223" chrg="0" r="" s="R" name="omega(1420)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.453E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="1.3E+01"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9000225" chrg="0" r="" s="S" name="f(2)(1430)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.474E+03" massErrPlus="1.9E+01" massErrMinus="1.9E+01" widthMeV="2.65E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="1" g="-" j="0" p="+" c="" a="B"
+	 pdg-mc="10211" chrg="+" r="" s="R" name="a(0)(1450)" quarks="uD">
+</particle>
+
+<particle massMeV="1.474E+03" massErrPlus="1.9E+01" massErrMinus="1.9E+01" widthMeV="2.65E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="1" g="-" j="0" p="+" c="+" a="B"
+	 pdg-mc="10111" chrg="0" r="" s="R" name="a(0)(1450)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.459E+03" massErrPlus="1.1E+01" massErrMinus="1.1E+01" widthMeV="1.5E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="+" j="1" p="-" c="" a="B"
+	 pdg-mc="100213" chrg="+" r="" s="R" name="rho(1450)" quarks="uD">
+</particle>
+
+<particle massMeV="1.459E+03" massErrPlus="1.1E+01" massErrMinus="1.1E+01" widthMeV="1.5E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="+" j="1" p="-" c="-" a="B"
+	 pdg-mc="100113" chrg="0" r="" s="R" name="rho(1450)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.476E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="8.7E+01"
+	 widthErrPlus="9.0E+00" widthErrMinus="9.0E+00" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="100331" chrg="0" r="" s="R" name="eta(1475)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.507E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.09E+02"
+	 widthErrPlus="7.0E+00" widthErrMinus="7.0E+00" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="9030221" chrg="0" r="" s="R" name="f(0)(1500)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.518E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="7.3E+01"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="9000223" chrg="0" r="" s="S" name="f(1)(1510)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.525E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="7.3E+01"
+	 widthErrPlus="6.0E+00" widthErrMinus="5.0E+00" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="335" chrg="0" r="" s="R" name="f(2)'(1525)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.546E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="1.26E+02"
+	 widthErrPlus="1.2E+01" widthErrMinus="1.2E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9010225" chrg="0" r="" s="S" name="f(2)(1565)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.594E+03" massErrPlus="1.8E+01" massErrMinus="6.2E+01" widthMeV="3.8E+02"
+	 widthErrPlus="9.0E+01" widthErrMinus="1.2E+02" i="0" g="-" j="1" p="+" c="-" a=""
+	 pdg-mc="9010223" chrg="0" r="" s="S" name="h(1)(1595)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.653E+03" massErrPlus="1.8E+01" massErrMinus="1.5E+01" widthMeV="2.25E+02"
+	 widthErrPlus="4.5E+01" widthErrMinus="2.8E+01" i="1" g="-" j="1" p="-" c="" a=""
+	 pdg-mc="9010213" chrg="+" r="" s="R" name="pi(1)(1600)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.653E+03" massErrPlus="1.8E+01" massErrMinus="1.5E+01" widthMeV="2.25E+02"
+	 widthErrPlus="4.5E+01" widthErrMinus="2.8E+01" i="1" g="-" j="1" p="-" c="+" a=""
+	 pdg-mc="9010113" chrg="0" r="" s="R" name="pi(1)(1600)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.647E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.54E+02"
+	 widthErrPlus="2.7E+01" widthErrMinus="2.7E+01" i="1" g="-" j="1" p="+" c="" a="B"
+	 pdg-mc="9020213" chrg="+" r="" s="S" name="a(1)(1640)" quarks="uD">
+</particle>
+
+<particle massMeV="1.647E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.54E+02"
+	 widthErrPlus="2.7E+01" widthErrMinus="2.7E+01" i="1" g="-" j="1" p="+" c="+" a="B"
+	 pdg-mc="9020113" chrg="0" r="" s="S" name="a(1)(1640)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.638E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="9.9E+01"
+	 widthErrPlus="2.8E+01" widthErrMinus="2.4E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9020225" chrg="0" r="" s="S" name="f(2)(1640)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.617E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.81E+02"
+	 widthErrPlus="1.1E+01" widthErrMinus="1.1E+01" i="0" g="+" j="2" p="-" c="+" a=""
+	 pdg-mc="10225" chrg="0" r="" s="R" name="eta(2)(1645)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.670E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="3.15E+02"
+	 widthErrPlus="3.5E+01" widthErrMinus="3.5E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="30223" chrg="0" r="" s="R" name="omega(1650)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.667E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="1.680E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="0" g="-" j="3" p="-" c="-" a=""
+	 pdg-mc="227" chrg="0" r="" s="R" name="omega(3)(1670)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.6724E+03" massErrPlus="3.2E+00" massErrMinus="3.2E+00" widthMeV="2.59E+02"
+	 widthErrPlus="9.0E+00" widthErrMinus="9.0E+00" i="1" g="-" j="2" p="-" c="" a="B"
+	 pdg-mc="10215" chrg="+" r="" s="R" name="pi(2)(1670)" quarks="uD">
+</particle>
+
+<particle massMeV="1.6724E+03" massErrPlus="3.2E+00" massErrMinus="3.2E+00" widthMeV="2.59E+02"
+	 widthErrPlus="9.0E+00" widthErrMinus="9.0E+00" i="1" g="-" j="2" p="-" c="+" a="B"
+	 pdg-mc="10115" chrg="0" r="" s="R" name="pi(2)(1670)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.680E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.5E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="100333" chrg="0" r="" s="R" name="phi(1680)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.6888E+03" massErrPlus="2.1E+00" massErrMinus="2.1E+00" widthMeV="1.610E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="1" g="+" j="3" p="-" c="" a="B"
+	 pdg-mc="217" chrg="+" r="" s="R" name="rho(3)(1690)" quarks="uD">
+</particle>
+
+<particle massMeV="1.6888E+03" massErrPlus="2.1E+00" massErrMinus="2.1E+00" widthMeV="1.610E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="1" g="+" j="3" p="-" c="-" a="B"
+	 pdg-mc="117" chrg="0" r="" s="R" name="rho(3)(1690)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.720E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="1" g="+" j="1" p="-" c="" a="B"
+	 pdg-mc="30213" chrg="+" r="" s="R" name="rho(1700)" quarks="uD">
+</particle>
+
+<particle massMeV="1.720E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="1" g="+" j="1" p="-" c="-" a="B"
+	 pdg-mc="30113" chrg="0" r="" s="R" name="rho(1700)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.732E+03" massErrPlus="1.6E+01" massErrMinus="1.6E+01" widthMeV="1.9E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="2" p="+" c="" a="B"
+	 pdg-mc="100215" chrg="+" r="" s="S" name="a(2)(1700)" quarks="uD">
+</particle>
+
+<particle massMeV="1.732E+03" massErrPlus="1.6E+01" massErrMinus="1.6E+01" widthMeV="1.9E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="2" p="+" c="+" a="B"
+	 pdg-mc="100115" chrg="0" r="" s="S" name="a(2)(1700)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.718E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="1.37E+02"
+	 widthErrPlus="8.0E+00" widthErrMinus="8.0E+00" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="10331" chrg="0" r="" s="R" name="f(0)(1710)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.760E+03" massErrPlus="1.1E+01" massErrMinus="1.1E+01" widthMeV="6.0E+01"
+	 widthErrPlus="1.6E+01" widthErrMinus="1.6E+01" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="9040221" chrg="0" r="" s="S" name="eta(1760)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.812E+03" massErrPlus="1.4E+01" massErrMinus="1.4E+01" widthMeV="2.07E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="1" g="-" j="0" p="-" c="" a="B"
+	 pdg-mc="9010211" chrg="+" r="" s="R" name="pi(1800)" quarks="uD">
+</particle>
+
+<particle massMeV="1.812E+03" massErrPlus="1.4E+01" massErrMinus="1.4E+01" widthMeV="2.07E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="1" g="-" j="0" p="-" c="+" a="B"
+	 pdg-mc="9010111" chrg="0" r="" s="R" name="pi(1800)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.815E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="1.97E+02"
+	 widthErrPlus="2.2E+01" widthErrMinus="2.2E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9030225" chrg="0" r="" s="S" name="f(2)(1810)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.834E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="6.8E+01"
+	 widthErrPlus="2.2E+01" widthErrMinus="2.2E+01" i="?" g="?" j="?" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="S" name="X(1835)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.854E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="8.7E+01"
+	 widthErrPlus="2.8E+01" widthErrMinus="2.3E+01" i="0" g="-" j="3" p="-" c="-" a=""
+	 pdg-mc="337" chrg="0" r="" s="R" name="phi(3)(1850)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.842E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="2.25E+02"
+	 widthErrPlus="1.4E+01" widthErrMinus="1.4E+01" i="0" g="+" j="2" p="-" c="+" a=""
+	 pdg-mc="10335" chrg="0" r="" s="S" name="eta(2)(1870)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.860E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.60E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="+" j="1" p="-" c="" a="B"
+	 pdg-mc="9020213" chrg="+" r="" s="S" name="rho(1900)" quarks="uD">
+</particle>
+
+<particle massMeV="1.860E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.60E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="+" j="1" p="-" c="-" a="B"
+	 pdg-mc="9020113" chrg="0" r="" s="S" name="rho(1900)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.915E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9040225" chrg="0" r="" s="S" name="f(2)(1910)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.944E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="4.72E+02"
+	 widthErrPlus="1.8E+01" widthErrMinus="1.8E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9050225" chrg="0" r="" s="R" name="f(2)(1950)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.982E+03" massErrPlus="1.4E+01" massErrMinus="1.4E+01" widthMeV="1.88E+02"
+	 widthErrPlus="2.4E+01" widthErrMinus="2.4E+01" i="1" g="+" j="3" p="-" c="" a="B"
+	 pdg-mc="9000217" chrg="+" r="" s="S" name="rho(3)(1990)" quarks="uD">
+</particle>
+
+<particle massMeV="1.982E+03" massErrPlus="1.4E+01" massErrMinus="1.4E+01" widthMeV="1.88E+02"
+	 widthErrPlus="2.4E+01" widthErrMinus="2.4E+01" i="1" g="+" j="3" p="-" c="-" a="B"
+	 pdg-mc="9000117" chrg="0" r="" s="S" name="rho(3)(1990)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.01E+03" massErrPlus="6.0E+01" massErrMinus="8.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9060225" chrg="0" r="" s="R" name="f(2)(2010)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.992E+03" massErrPlus="1.6E+01" massErrMinus="1.6E+01" widthMeV="4.4E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="9050221" chrg="0" r="" s="S" name="f(0)(2020)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.0010E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="3.13E+02"
+	 widthErrPlus="3.1E+01" widthErrMinus="3.1E+01" i="1" g="-" j="4" p="+" c="" a="B"
+	 pdg-mc="219" chrg="+" r="" s="R" name="a(4)(2040)" quarks="uD">
+</particle>
+
+<particle massMeV="2.0010E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="3.13E+02"
+	 widthErrPlus="3.1E+01" widthErrMinus="3.1E+01" i="1" g="-" j="4" p="+" c="+" a="B"
+	 pdg-mc="119" chrg="0" r="" s="R" name="a(4)(2040)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.0250E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="2.25E+02"
+	 widthErrPlus="1.8E+01" widthErrMinus="1.8E+01" i="0" g="+" j="4" p="+" c="+" a=""
+	 pdg-mc="229" chrg="0" r="" s="R" name="f(4)(2050)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.090E+03" massErrPlus="2.9E+01" massErrMinus="2.9E+01" widthMeV="6.2E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1" g="-" j="2" p="-" c="" a="B"
+	 pdg-mc="9000215" chrg="+" r="" s="S" name="pi(2)(2100)" quarks="uD">
+</particle>
+
+<particle massMeV="2.090E+03" massErrPlus="2.9E+01" massErrMinus="2.9E+01" widthMeV="6.2E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1" g="-" j="2" p="-" c="+" a="B"
+	 pdg-mc="9000115" chrg="0" r="" s="S" name="pi(2)(2100)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.103E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="2.06E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="9060221" chrg="0" r="" s="S" name="f(0)(2100)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.156E+03" massErrPlus="1.1E+01" massErrMinus="1.1E+01" widthMeV="1.67E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9070225" chrg="0" r="" s="S" name="f(2)(2150)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.149E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="3.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1" g="+" j="1" p="-" c="" a="B"
+	 pdg-mc="9030213" chrg="+" r="" s="S" name="rho(2150)" quarks="uD">
+</particle>
+
+<particle massMeV="2.149E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="3.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1" g="+" j="1" p="-" c="-" a="B"
+	 pdg-mc="9030113" chrg="0" r="" s="S" name="rho(2150)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.189E+03" massErrPlus="1.3E+01" massErrMinus="1.3E+01" widthMeV="2.4E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="9070221" chrg="0" r="" s="S" name="f(0)(2200)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.2311E+03" massErrPlus="3.5E+00" massErrMinus="3.5E+00" widthMeV="2.3E+01"
+	 widthErrPlus="8.0E+00" widthErrMinus="7.0E+00" i="0" g="+" j="2or4" p="+" c="+" a=""
+	 pdg-mc="9000229" chrg="0" r="" s="S" name="f(J)(2220)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.220E+03" massErrPlus="1.8E+01" massErrMinus="1.8E+01" widthMeV="1.5E+02"
+	 widthErrPlus="3.1E+02" widthErrMinus="8.0E+01" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="9080221" chrg="0" r="" s="S" name="eta(2225)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.260E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.60E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="+" j="3" p="-" c="" a="B"
+	 pdg-mc="9010217" chrg="+" r="" s="S" name="rho(3)(2250)" quarks="uD">
+</particle>
+
+<particle massMeV="2.260E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.60E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="+" j="3" p="-" c="-" a="B"
+	 pdg-mc="9010117" chrg="0" r="" s="S" name="rho(3)(2250)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.297E+03" massErrPlus="2.8E+01" massErrMinus="2.8E+01" widthMeV="1.5E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9080225" chrg="0" r="" s="R" name="f(2)(2300)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.332E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.6E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="0" g="+" j="4" p="+" c="+" a=""
+	 pdg-mc="9010229" chrg="0" r="" s="S" name="f(4)(2300)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.34E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="7.0E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="9090225" chrg="0" r="" s="R" name="f(2)(2340)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.330E+03" massErrPlus="3.5E+01" massErrMinus="3.5E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="1" g="+" j="5" p="-" c="" a="B"
+	 pdg-mc="" chrg="+" r="" s="S" name="rho(5)(2350)" quarks="uD">
+</particle>
+
+<particle massMeV="2.330E+03" massErrPlus="3.5E+01" massErrMinus="3.5E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="1" g="+" j="5" p="-" c="-" a="B"
+	 pdg-mc="" chrg="0" r="" s="S" name="rho(5)(2350)" quarks="(uU+dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.45E+03" massErrPlus="1.3E+02" massErrMinus="1.3E+02" widthMeV="4.0E+02"
+	 widthErrPlus="2.5E+02" widthErrMinus="2.5E+02" i="1" g="-" j="6" p="+" c="" a="B"
+	 pdg-mc="" chrg="+" r="" s="S" name="a(6)(2450)" quarks="uD">
+</particle>
+
+<particle massMeV="2.45E+03" massErrPlus="1.3E+02" massErrMinus="1.3E+02" widthMeV="4.0E+02"
+	 widthErrPlus="2.5E+02" widthErrMinus="2.5E+02" i="1" g="-" j="6" p="+" c="+" a="B"
+	 pdg-mc="" chrg="0" r="" s="S" name="a(6)(2450)" quarks="(uU+dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.46E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="2.6E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="+" j="6" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="S" name="f(6)(2510)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.0724E+03" massErrPlus="8.0E-01" massErrMinus="8.0E-01" widthMeV="3.50E+00"
+	 widthErrPlus="1.5E+00" widthErrMinus="1.0E+00" i="?" g="?" j="0" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1070)" quarks="??">
+</particle>
+
+<particle massMeV="1.107E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="1.11E+02"
+	 widthErrPlus="8.0E+00" widthErrMinus="8.0E+00" i="0" g="+" j="even" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1110)" quarks="??">
+</particle>
+
+<particle massMeV="1.480E+03" massErrPlus="1.0E+02" massErrMinus="1.5E+02" widthMeV="1.03E+03"
+	 widthErrPlus="8.0E+01" widthErrMinus="1.7E+02" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(0)(1200-1600)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.420E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.600E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="2" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1420)" quarks="??">
+</particle>
+
+<particle massMeV="1.600E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="4.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="2" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1600)" quarks="??">
+</particle>
+
+<particle massMeV="1.652E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="50"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="-" j="?" p="?" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1650)" quarks="??">
+</particle>
+
+<particle massMeV="1.7535E+03" massErrPlus="1.5E+00" massErrMinus="1.5E+00" widthMeV="1.22E+02"
+	 widthErrPlus="6.0E+00" widthErrMinus="6.0E+00" i="?" g="?" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1750)" quarks="??">
+</particle>
+
+<particle massMeV="1.763E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.9E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="1" g="-" j="?" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1775)" quarks="??">
+</particle>
+
+<particle massMeV="1.857E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.0E+01"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1855)" quarks="??">
+</particle>
+
+<particle massMeV="1.87E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="?" g="?" j="2" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1870)" quarks="??">
+</particle>
+
+<particle massMeV="1.87E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.8E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="1" g="-" j="3" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(3)(1875)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.880E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.6E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="2" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(2)(1880)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.930E+03" massErrPlus="3.0E+01" massErrMinus="7.0E+01" widthMeV="1.6E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="1" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(1)(1930)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.935E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.15E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="+" j="1" p="-" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1935)" quarks="??">
+</particle>
+
+<particle massMeV="1.94E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="1.6E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="+" j="2" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(2)(1940)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.945E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.15E+02"
+	 widthErrPlus="2.2E+01" widthErrMinus="2.2E+01" i="0" g="-" j="3" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(3)(1945)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.960E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="2.0E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(1960)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.96E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="2.1E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="+" j="1" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="b(1)(1960)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.965E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.65E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="+" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(1965)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="1.96E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.4E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="0" g="-" j="1" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="h(1)(1965)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.971E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.4E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(1)(1970)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="1.9700E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="4.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1970)" quarks="??">
+</particle>
+
+<particle massMeV="1.973E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="80"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(1975)" quarks="??">
+</particle>
+
+<particle massMeV="1.975E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.75E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="0" g="-" j="2" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(2)(1975)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.0030E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="2.49E+02"
+	 widthErrPlus="2.3E+01" widthErrMinus="2.3E+01" i="1" g="-" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(2)(1990)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.000E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="+" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(2000)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.0010E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="3.12E+02"
+	 widthErrPlus="3.2E+01" widthErrMinus="3.2E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(2)(2000)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.214E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="3.55E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1" g="-" j="?" p="?" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2000)" quarks="??">
+</particle>
+
+<particle massMeV="1.9980E+03" massErrPlus="3.0E+00" massErrMinus="3.0E+00" widthMeV="15"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="?" j="4" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2000)" quarks="??">
+</particle>
+
+<particle massMeV="2.005E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="2" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(2)(2005)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.010E+03" massErrPlus="3.5E+01" massErrMinus="6.0E+01" widthMeV="2.7E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(2010)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.014E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.30E+02"
+	 widthErrPlus="3.2E+01" widthErrMinus="3.2E+01" i="1" g="-" j="1" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(1)(2015)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.025E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="3.3E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="-" j="0" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(0)(2020)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.0150E+03" massErrPlus="3.0E+00" massErrMinus="3.0E+00" widthMeV="1.0E+01"
+	 widthErrPlus="4.0E+00" widthErrMinus="4.0E+00" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2020)" quarks="??">
+</particle>
+
+<particle massMeV="2.025E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.45E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="0" g="-" j="3" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="h(3)(2025)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.025E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="1.07E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="+" j="3" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="b(3)(2025)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.030E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.050E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="0" g="+" j="2" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(2)(2030)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.048E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="2.13E+02"
+	 widthErrPlus="3.4E+01" widthErrMinus="3.4E+01" i="0" g="+" j="3" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(3)(2050)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2060" massErrPlus="-1" massErrMinus="-1" widthMeV="50"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(0)(2060)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.070E+03" massErrPlus="3.5E+01" massErrMinus="3.5E+01" widthMeV="3.1E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="0" g="-" j="0" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(2070)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.070E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.7E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="3" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(3)(2070)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.075E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="9.0E+01"
+	 widthErrPlus="3.5E+01" widthErrMinus="3.5E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2075)" quarks="??">
+</particle>
+
+<particle massMeV="2.060E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.95E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="-" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(2)(2080)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.0800E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="1.10E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2080)" quarks="??">
+</particle>
+
+<particle massMeV="2.0800E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="1.90E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="?" g="?" j="3" p="-" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2080)" quarks="??">
+</particle>
+
+<particle massMeV="2.096E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="4.5E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="1" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(1)(2095)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.10E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="1.9E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(2100)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.10E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="2.5E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="?" g="?" j="0" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2100)" quarks="??">
+</particle>
+
+<particle massMeV="2.1100E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="3.30E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="+" j="3" p="-" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2110)" quarks="??">
+</particle>
+
+<particle massMeV="2.141E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="4.9E+01"
+	 widthErrPlus="2.8E+01" widthErrMinus="2.8E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(2)(2140)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.150E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.35E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(2145)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.1500E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="2.600E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="?" g="?" j="2" p="+" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2150)" quarks="??">
+</particle>
+
+<particle massMeV="2.18E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.1E+02"
+	 widthErrPlus="9.0E+01" widthErrMinus="4.0E+01" i="0" g="-" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(2)(2175)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.19E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="8.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(2190)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.195E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="2.2E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="-" j="2" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(2)(2195)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.205E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="3.5E+02"
+	 widthErrPlus="9.0E+01" widthErrMinus="9.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(2205)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.210E+03" massErrPlus="7.9E+01" massErrMinus="2.1E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+02" widthErrMinus="9.0E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2210)" quarks="??">
+</particle>
+
+<particle massMeV="2.207E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="130"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2210)" quarks="??">
+</particle>
+
+<particle massMeV="2.22E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.2E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="0" g="-" j="1" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="h(1)(2215)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.240E+03" massErrPlus="3.5E+01" massErrMinus="3.5E+01" widthMeV="3.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="+" j="1" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="b(1)(2240)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.24E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.3E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="1" g="+" j="2" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(2)(2240)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.240E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="1.9E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1" g="+" j="4" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(4)(2240)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.24E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.2E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="4.0E+01" i="0" g="-" j="2" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(2)(2245)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.248E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.80E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="0" g="+" j="2" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(2)(2250)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.250E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.15E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="-" j="4" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(4)(2250)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.250E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.5E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="0" g="-" j="4" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(4)(2250)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.250E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="-" j="3" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(3)(2255)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.260E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="0" g="+" j="4" p="+" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2260)" quarks="??">
+</particle>
+
+<particle massMeV="2.26E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="+" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(2265)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.27E+03" massErrPlus="6.0E+01" massErrMinus="4.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="1" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(1)(2270)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.265E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.35E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="3.5E+01" i="1" g="-" j="2" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(2)(2270)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.275E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="1.9E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="-" j="3" p="+" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="h(3)(2275)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.300E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.3E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="-" j="4" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(4)(2280)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.285E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="3.25E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(2280)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.28E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="4.4E+02"
+	 widthErrPlus="1.1E+02" widthErrMinus="1.1E+02" i="1" g="+" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(2280)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.28E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="2.3E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="-" j="3" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(3)(2285)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.290E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.75E+02"
+	 widthErrPlus="3.5E+01" widthErrMinus="3.5E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2290)" quarks="??">
+</particle>
+
+<particle massMeV="2.303E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.14E+02"
+	 widthErrPlus="2.9E+01" widthErrMinus="2.9E+01" i="0" g="+" j="3" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(3)(2300)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.30E+03" massErrPlus="5.0E+01" massErrMinus="8.0E+01" widthMeV="3.4E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1" g="+" j="3" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="rho(3)(2300)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.31E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="1.8E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="6.0E+01" i="1" g="-" j="3" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(3)(2310)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.31E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="2.6E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(1)(2310)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.33E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="2.4E+02"
+	 widthErrPlus="9.0E+01" widthErrMinus="9.0E+01" i="0" g="+" j="4" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="eta(4)(2320)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.337E+03" massErrPlus="1.4E+01" massErrMinus="1.4E+01" widthMeV="2.17E+02"
+	 widthErrPlus="3.3E+01" widthErrMinus="3.3E+01" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(0)(2330)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.330E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="4.4E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="omega(2330)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="2.34E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="2.3E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="1" g="-" j="1" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="a(1)(2340)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.340E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.8E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2340)" quarks="??">
+</particle>
+
+<particle massMeV="2.360E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="0" g="-" j="0" p="-" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="pi(2360)" quarks="(uU-dD)/sqrt(2)">
+</particle>
+
+<particle massMeV="2.3600E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="4.30E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="?" g="?" j="4" p="+" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2360)" quarks="??">
+</particle>
+
+<particle massMeV="2.4400E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="3.10E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="?" g="?" j="5" p="-" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2440)" quarks="??">
+</particle>
+
+<particle massMeV="2.6316E+03" massErrPlus="2.1E+00" massErrMinus="2.1E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2632)" quarks="??">
+</particle>
+
+<particle massMeV="2.676E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="150"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2680)" quarks="??">
+</particle>
+
+<particle massMeV="2.710E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="1.7E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="?" g="?" j="6" p="+" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2710)" quarks="??">
+</particle>
+
+<particle massMeV="2.747E+03" massErrPlus="3.2E+01" massErrMinus="3.2E+01" widthMeV="2.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="?" g="?" j="7" p="-" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(2750)" quarks="??">
+</particle>
+
+<particle massMeV="3.100E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="7.0E+02"
+	 widthErrPlus="1.3E+02" widthErrMinus="1.3E+02" i="0" g="+" j="6" p="+" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="f(6)(3100)" quarks="x(uU+dD)+y(sS)">
+</particle>
+
+<particle massMeV="3.250E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="4.5E+01"
+	 widthErrPlus="1.8E+01" widthErrMinus="1.8E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(3250)" quarks="??">
+</particle>
+
+<particle massMeV="3.245E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="2.5E+01"
+	 widthErrPlus="1.1E+01" widthErrMinus="1.1E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="F" name="X(3250)" quarks="??">
+</particle>
+
+<particle massMeV="4.93677E+02" massErrPlus="1.6E-02" massErrMinus="1.6E-02" widthMeV="5.315E-14"
+	 widthErrPlus="1.0E-16" widthErrMinus="1.0E-16" i="1/2" g="" j="0" p="-" c="" a="B"
+	 pdg-mc="321" chrg="+" r="" s="R" name="K" quarks="uS">
+</particle>
+
+<particle massMeV="4.97648E+02" massErrPlus="2.2E-02" massErrMinus="2.2E-02" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="311" chrg="0" r="" s="R" name="K" quarks="dS">
+</particle>
+
+<particle massMeV="4.97648E+02" massErrPlus="2.2E-02" massErrMinus="2.2E-02" widthMeV="7.352E-12"
+	 widthErrPlus="4.0E-15" widthErrMinus="4.0E-15" i="1/2" g="" j="0" p="-" c="" a=""
+	 pdg-mc="310" chrg="0" r="" s="R" name="K(S)" quarks="p(dS)+q(Ds)">
+</particle>
+
+<particle massMeV="4.97648E+02" massErrPlus="2.2E-02" massErrMinus="2.2E-02" widthMeV="1.287E-14"
+	 widthErrPlus="5.0E-17" widthErrMinus="5.0E-17" i="1/2" g="" j="0" p="-" c="" a=""
+	 pdg-mc="130" chrg="0" r="" s="R" name="K(L)" quarks="p(dS)-q(Ds)">
+</particle>
+
+<particle massMeV="8.4E+02" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="6.2E+02"
+	 widthErrPlus="1.3E+02" widthErrMinus="1.7E+02" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="9000321" chrg="+" r="" s="S" name="K(0)*(800)" quarks="uS">
+</particle>
+
+<particle massMeV="8.4E+02" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="6.2E+02"
+	 widthErrPlus="1.3E+02" widthErrMinus="1.7E+02" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="900311" chrg="0" r="" s="S" name="K(0)*(800)" quarks="dS">
+</particle>
+
+<particle massMeV="8.9166E+02" massErrPlus="2.6E-01" massErrMinus="2.6E-01" widthMeV="5.08E+01"
+	 widthErrPlus="9.0E-01" widthErrMinus="9.0E-01" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="323" chrg="+" r="" s="R" name="K*(892)" quarks="uS">
+</particle>
+
+<particle massMeV="8.9600E+02" massErrPlus="2.5E-01" massErrMinus="2.5E-01" widthMeV="5.03E+01"
+	 widthErrPlus="6.0E-01" widthErrMinus="6.0E-01" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="313" chrg="0" r="" s="R" name="K*(892)" quarks="dS">
+</particle>
+
+<particle massMeV="1.272E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="9.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="10323" chrg="+" r="" s="R" name="K(1)(1270)" quarks="uS">
+</particle>
+
+<particle massMeV="1.272E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="9.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="10313" chrg="0" r="" s="R" name="K(1)(1270)" quarks="dS">
+</particle>
+
+<particle massMeV="1.402E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.74E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="20323" chrg="+" r="" s="R" name="K(1)(1400)" quarks="uS">
+</particle>
+
+<particle massMeV="1.402E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.74E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="20313" chrg="0" r="" s="R" name="K(1)(1400)" quarks="dS">
+</particle>
+
+<particle massMeV="1.414E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.32E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="100323" chrg="+" r="" s="R" name="K*(1410)" quarks="uS">
+</particle>
+
+<particle massMeV="1.414E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.32E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="100313" chrg="0" r="" s="R" name="K*(1410)" quarks="dS">
+</particle>
+
+<particle massMeV="1.414E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="2.90E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="10321" chrg="+" r="" s="R" name="K(0)*(1430)" quarks="uS">
+</particle>
+
+<particle massMeV="1.414E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="2.90E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="10311" chrg="0" r="" s="R" name="K(0)*(1430)" quarks="dS">
+</particle>
+
+<particle massMeV="1.4256E+03" massErrPlus="1.5E+00" massErrMinus="1.5E+00" widthMeV="9.85E+01"
+	 widthErrPlus="2.7E+00" widthErrMinus="2.7E+00" i="1/2" g="" j="2" p="+" c="" a="F"
+	 pdg-mc="325" chrg="+" r="" s="R" name="K(2)*(1430)" quarks="uS">
+</particle>
+
+<particle massMeV="1.4324E+03" massErrPlus="1.3E+00" massErrMinus="1.3E+00" widthMeV="1.09E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="1/2" g="" j="2" p="+" c="" a="F"
+	 pdg-mc="315" chrg="0" r="" s="R" name="K(2)*(1430)" quarks="dS">
+</particle>
+
+<particle massMeV="1460" massErrPlus="-1" massErrMinus="-1" widthMeV="260"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="100321" chrg="+" r="" s="S" name="K(1460)" quarks="uS">
+</particle>
+
+<particle massMeV="1460" massErrPlus="-1" massErrMinus="-1" widthMeV="260"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="100311" chrg="0" r="" s="S" name="K(1460)" quarks="dS">
+</particle>
+
+<particle massMeV="1580" massErrPlus="-1" massErrMinus="-1" widthMeV="110"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="9000325" chrg="+" r="" s="S" name="K(2)(1580)" quarks="uS">
+</particle>
+
+<particle massMeV="1580" massErrPlus="-1" massErrMinus="-1" widthMeV="110"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="9000315" chrg="0" r="" s="S" name="K(2)(1580)" quarks="dS">
+</particle>
+
+<particle massMeV="1.629E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.6E+01"
+	 widthErrPlus="1.9E+01" widthErrMinus="1.6E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="" s="S" name="K(1630)" quarks="uS">
+</particle>
+
+<particle massMeV="1.629E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.6E+01"
+	 widthErrPlus="1.9E+01" widthErrMinus="1.6E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="K(1630)" quarks="dS">
+</particle>
+
+<particle massMeV="1.65E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="1.5E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="9000323" chrg="+" r="" s="S" name="K(1)(1650)" quarks="uS">
+</particle>
+
+<particle massMeV="1.65E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="1.5E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="9000313" chrg="0" r="" s="S" name="K(1)(1650)" quarks="dS">
+</particle>
+
+<particle massMeV="1.717E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="3.2E+02"
+	 widthErrPlus="1.1E+02" widthErrMinus="1.1E+02" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="30323" chrg="+" r="" s="R" name="K*(1680)" quarks="uS">
+</particle>
+
+<particle massMeV="1.717E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="3.2E+02"
+	 widthErrPlus="1.1E+02" widthErrMinus="1.1E+02" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="30313" chrg="0" r="" s="R" name="K*(1680)" quarks="dS">
+</particle>
+
+<particle massMeV="1.773E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="1.86E+02"
+	 widthErrPlus="1.4E+01" widthErrMinus="1.4E+01" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="10325" chrg="+" r="" s="R" name="K(2)(1770)" quarks="uS">
+</particle>
+
+<particle massMeV="1.773E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="1.86E+02"
+	 widthErrPlus="1.4E+01" widthErrMinus="1.4E+01" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="10315" chrg="0" r="" s="R" name="K(2)(1770)" quarks="dS">
+</particle>
+
+<particle massMeV="1.776E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.59E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1/2" g="" j="3" p="-" c="" a="F"
+	 pdg-mc="327" chrg="+" r="" s="R" name="K(3)*(1780)" quarks="uS">
+</particle>
+
+<particle massMeV="1.776E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="1.59E+02"
+	 widthErrPlus="2.1E+01" widthErrMinus="2.1E+01" i="1/2" g="" j="3" p="-" c="" a="F"
+	 pdg-mc="317" chrg="0" r="" s="R" name="K(3)*(1780)" quarks="dS">
+</particle>
+
+<particle massMeV="1.816E+03" massErrPlus="1.3E+01" massErrMinus="1.3E+01" widthMeV="2.76E+02"
+	 widthErrPlus="3.5E+01" widthErrMinus="3.5E+01" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="20325" chrg="+" r="" s="R" name="K(2)(1820)" quarks="uS">
+</particle>
+
+<particle massMeV="1.816E+03" massErrPlus="1.3E+01" massErrMinus="1.3E+01" widthMeV="2.76E+02"
+	 widthErrPlus="3.5E+01" widthErrMinus="3.5E+01" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="20315" chrg="0" r="" s="R" name="K(2)(1820)" quarks="dS">
+</particle>
+
+<particle massMeV="1830" massErrPlus="-1" massErrMinus="-1" widthMeV="250"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="200321" chrg="+" r="" s="S" name="K(1830)" quarks="uS">
+</particle>
+
+<particle massMeV="1830" massErrPlus="-1" massErrMinus="-1" widthMeV="250"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="200311" chrg="0" r="" s="S" name="K(1830)" quarks="dS">
+</particle>
+
+<particle massMeV="1.945E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.0E+02"
+	 widthErrPlus="9.0E+01" widthErrMinus="9.0E+01" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="9010321" chrg="+" r="" s="S" name="K(0)*(1950)" quarks="uS">
+</particle>
+
+<particle massMeV="1.945E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.0E+02"
+	 widthErrPlus="9.0E+01" widthErrMinus="9.0E+01" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="9010311" chrg="0" r="" s="S" name="K(0)*(1950)" quarks="dS">
+</particle>
+
+<particle massMeV="1.973E+03" massErrPlus="2.6E+01" massErrMinus="2.6E+01" widthMeV="3.7E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="1/2" g="" j="2" p="+" c="" a="F"
+	 pdg-mc="100325" chrg="+" r="" s="S" name="K(2)*(1980)" quarks="uS">
+</particle>
+
+<particle massMeV="1.973E+03" massErrPlus="2.6E+01" massErrMinus="2.6E+01" widthMeV="3.7E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="1/2" g="" j="2" p="+" c="" a="F"
+	 pdg-mc="100315" chrg="0" r="" s="S" name="K(2)*(1980)" quarks="dS">
+</particle>
+
+<particle massMeV="2.045E+03" massErrPlus="9.0E+00" massErrMinus="9.0E+00" widthMeV="1.98E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1/2" g="" j="4" p="+" c="" a="F"
+	 pdg-mc="329" chrg="+" r="" s="R" name="K(4)*(2045)" quarks="uS">
+</particle>
+
+<particle massMeV="2.045E+03" massErrPlus="9.0E+00" massErrMinus="9.0E+00" widthMeV="1.98E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1/2" g="" j="4" p="+" c="" a="F"
+	 pdg-mc="319" chrg="0" r="" s="R" name="K(4)*(2045)" quarks="dS">
+</particle>
+
+<particle massMeV="2.247E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="1.80E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="9010325" chrg="+" r="" s="S" name="K(2)(2250)" quarks="uS">
+</particle>
+
+<particle massMeV="2.247E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="1.80E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1/2" g="" j="2" p="-" c="" a="F"
+	 pdg-mc="9010315" chrg="0" r="" s="S" name="K(2)(2250)" quarks="dS">
+</particle>
+
+<particle massMeV="2.324E+03" massErrPlus="2.4E+01" massErrMinus="2.4E+01" widthMeV="1.50E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1/2" g="" j="3" p="+" c="" a="F"
+	 pdg-mc="9010327" chrg="+" r="" s="S" name="K(3)(2320)" quarks="uS">
+</particle>
+
+<particle massMeV="2.324E+03" massErrPlus="2.4E+01" massErrMinus="2.4E+01" widthMeV="1.50E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1/2" g="" j="3" p="+" c="" a="F"
+	 pdg-mc="9010317" chrg="0" r="" s="S" name="K(3)(2320)" quarks="dS">
+</particle>
+
+<particle massMeV="2.382E+03" massErrPlus="2.4E+01" massErrMinus="2.4E+01" widthMeV="1.8E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="5" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="" s="S" name="K(5)*(2380)" quarks="uS">
+</particle>
+
+<particle massMeV="2.382E+03" massErrPlus="2.4E+01" massErrMinus="2.4E+01" widthMeV="1.8E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="5" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="K(5)*(2380)" quarks="dS">
+</particle>
+
+<particle massMeV="2.490E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="250"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="4" p="-" c="" a="F"
+	 pdg-mc="9000329" chrg="+" r="" s="S" name="K(4)(2500)" quarks="uS">
+</particle>
+
+<particle massMeV="2.490E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="250"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="4" p="-" c="" a="F"
+	 pdg-mc="9000319" chrg="0" r="" s="S" name="K(4)(2500)" quarks="dS">
+</particle>
+
+<particle massMeV="3.054E+03" massErrPlus="1.1E+01" massErrMinus="1.1E+01" widthMeV="4.2E+01"
+	 widthErrPlus="1.6E+01" widthErrMinus="1.6E+01" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="S" name="K(3100)" quarks="Maybenon-qQ">
+</particle>
+
+<particle massMeV="1.8693E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="6.33E-10"
+	 widthErrPlus="4.0E-12" widthErrMinus="4.0E-12" i="1/2" g="" j="0" p="-" c="" a="B"
+	 pdg-mc="411" chrg="+" r="" s="R" name="D" quarks="cD">
+</particle>
+
+<particle massMeV="1.8645E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="1.605E-09"
+	 widthErrPlus="6.0E-12" widthErrMinus="6.0E-12" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="421" chrg="0" r="" s="R" name="D" quarks="cU">
+</particle>
+
+<particle massMeV="2.0067E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="2.1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="423" chrg="0" r="" s="R" name="D*(2007)" quarks="cU">
+</particle>
+
+<particle massMeV="2.0100E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="9.6E-02"
+	 widthErrPlus="2.2E-02" widthErrMinus="2.2E-02" i="1/2" g="" j="1" p="-" c="" a="B"
+	 pdg-mc="413" chrg="+" r="" s="R" name="D*(2010)" quarks="cD">
+</particle>
+
+<particle massMeV="2.35E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="2.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="10421" chrg="0" r="" s="S" name="D(0)*(2400)" quarks="cU">
+</particle>
+
+<particle massMeV="2.40E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="2.8E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1/2" g="" j="0" p="+" c="" a="F"
+	 pdg-mc="10411" chrg="+" r="" s="S" name="D(0)*(2400)" quarks="cD">
+</particle>
+
+<particle massMeV="2.4223E+03" massErrPlus="1.3E+00" massErrMinus="1.3E+00" widthMeV="2.04E+01"
+	 widthErrPlus="1.7E+00" widthErrMinus="1.7E+00" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="10423" chrg="0" r="" s="R" name="D(1)(2420)" quarks="cU">
+</particle>
+
+<particle massMeV="2.4234E+03" massErrPlus="3.1E+00" massErrMinus="3.1E+00" widthMeV="2.5E+01"
+	 widthErrPlus="6.0E+00" widthErrMinus="6.0E+00" i="1/2" g="" j="?" p="?" c="" a="B"
+	 pdg-mc="10413" chrg="+" r="" s="S" name="D(1)(2420)" quarks="cD">
+</particle>
+
+<particle massMeV="2.43E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.8E+02"
+	 widthErrPlus="1.3E+02" widthErrMinus="1.1E+02" i="1/2" g="" j="1" p="+" c="" a="F"
+	 pdg-mc="20423" chrg="+" r="" s="S" name="D(1)(2430)" quarks="cD">
+</particle>
+
+<particle massMeV="2.4611E+03" massErrPlus="1.6E+00" massErrMinus="1.6E+00" widthMeV="4.3E+01"
+	 widthErrPlus="4.0E+00" widthErrMinus="4.0E+00" i="1/2" g="" j="2" p="+" c="" a="F"
+	 pdg-mc="425" chrg="0" r="" s="R" name="D(2)*(2460)" quarks="cU">
+</particle>
+
+<particle massMeV="2.459E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="2.9E+01"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="1/2" g="" j="2" p="+" c="" a="B"
+	 pdg-mc="415" chrg="+" r="" s="R" name="D(2)*(2460)" quarks="cD">
+</particle>
+
+<particle massMeV="2.637E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="15"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="" s="S" name="D*(2640)" quarks="cD">
+</particle>
+
+<particle massMeV="1.9682E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="1.317E-09"
+	 widthErrPlus="1.9E-11" widthErrMinus="1.9E-11" i="0" g="" j="0" p="-" c="" a="B"
+	 pdg-mc="431" chrg="+" r="" s="R" name="D(s)" quarks="cS">
+</particle>
+
+<particle massMeV="2.1120E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="?" p="?" c="" a="B"
+	 pdg-mc="433" chrg="+" r="" s="R" name="D(s)*" quarks="cS">
+</particle>
+
+<particle massMeV="2.3173E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="7"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="0" p="+" c="" a="B"
+	 pdg-mc="10431" chrg="+" r="" s="R" name="D(s0)*(2317)" quarks="cS">
+</particle>
+
+<particle massMeV="2.4589E+03" massErrPlus="9.0E-01" massErrMinus="9.0E-01" widthMeV="10"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1" p="+" c="" a="B"
+	 pdg-mc="20433" chrg="+" r="" s="R" name="D(s1)(2460)" quarks="cS">
+</particle>
+
+<particle massMeV="2.5354E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="3.2"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1" p="+" c="" a="B"
+	 pdg-mc="10433" chrg="+" r="" s="R" name="D(s1)(2536)" quarks="cS">
+</particle>
+
+<particle massMeV="2.5735E+03" massErrPlus="1.7E+00" massErrMinus="1.7E+00" widthMeV="1.5E+01"
+	 widthErrPlus="5.0E+00" widthErrMinus="4.0E+00" i="0" g="" j="?" p="?" c="" a="B"
+	 pdg-mc="435" chrg="+" r="" s="R" name="D(s2)(2573)" quarks="cS">
+</particle>
+
+<particle massMeV="5.2790E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="4.018E-10"
+	 widthErrPlus="2.7E-12" widthErrMinus="2.7E-12" i="1/2" g="" j="0" p="-" c="" a="B"
+	 pdg-mc="521" chrg="+" r="" s="R" name="B" quarks="uB">
+</particle>
+
+<particle massMeV="5.2794E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="4.302E-10"
+	 widthErrPlus="2.5E-12" widthErrMinus="2.5E-12" i="1/2" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="511" chrg="0" r="" s="R" name="B" quarks="dB">
+</particle>
+
+<particle massMeV="5.3250E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="523" chrg="+" r="" s="R" name="B*" quarks="uB">
+</particle>
+
+<particle massMeV="5.3250E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="513" chrg="0" r="" s="R" name="B*" quarks="dB">
+</particle>
+
+<particle massMeV="5.698E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="1.28E+02"
+	 widthErrPlus="1.8E+01" widthErrMinus="1.8E+01" i="?" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="" s="S" name="B(J)*(5732)" quarks="uB">
+</particle>
+
+<particle massMeV="5.698E+03" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="1.28E+02"
+	 widthErrPlus="1.8E+01" widthErrMinus="1.8E+01" i="?" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="B(J)*(5732)" quarks="dB">
+</particle>
+
+<particle massMeV="5.3675E+03" massErrPlus="1.8E+00" massErrMinus="1.8E+00" widthMeV="4.49E-10"
+	 widthErrPlus="1.8E-11" widthErrMinus="1.8E-11" i="0" g="" j="0" p="-" c="" a="F"
+	 pdg-mc="531" chrg="0" r="" s="R" name="B(s)" quarks="sB">
+</particle>
+
+<particle massMeV="5.4128E+03" massErrPlus="1.7E+00" massErrMinus="1.7E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="1" p="-" c="" a="F"
+	 pdg-mc="533" chrg="0" r="" s="S" name="B(s)*" quarks="sB">
+</particle>
+
+<particle massMeV="5.853E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="4.7E+01"
+	 widthErrPlus="2.2E+01" widthErrMinus="2.2E+01" i="?" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="B(sJ)*(5850)" quarks="sB">
+</particle>
+
+<particle massMeV="6.286E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.4E-09"
+	 widthErrPlus="8.0E-10" widthErrMinus="4.0E-10" i="0" g="" j="0" p="-" c="" a="B"
+	 pdg-mc="541" chrg="+" r="" s="R" name="B(c)" quarks="cB">
+</particle>
+
+<particle massMeV="2.9804E+03" massErrPlus="1.2E+00" massErrMinus="1.2E+00" widthMeV="2.55E+01"
+	 widthErrPlus="3.4E+00" widthErrMinus="3.4E+00" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="441" chrg="0" r="" s="R" name="eta(c)(1S)" quarks="cC">
+</particle>
+
+<particle massMeV="3.096916E+03" massErrPlus="1.1E-02" massErrMinus="1.1E-02" widthMeV="9.34E-02"
+	 widthErrPlus="2.1E-03" widthErrMinus="2.1E-03" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="443" chrg="0" r="" s="R" name="J/psi(1S)" quarks="cC">
+</particle>
+
+<particle massMeV="3.41476E+03" massErrPlus="3.5E-01" massErrMinus="3.5E-01" widthMeV="1.04E+01"
+	 widthErrPlus="7.0E-01" widthErrMinus="7.0E-01" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="10441" chrg="0" r="" s="R" name="chi(c0)(1P)" quarks="cC">
+</particle>
+
+<particle massMeV="3.51066E+03" massErrPlus="7.0E-02" massErrMinus="7.0E-02" widthMeV="8.9E-01"
+	 widthErrPlus="5.0E-02" widthErrMinus="5.0E-02" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="20443" chrg="0" r="" s="R" name="chi(c1)(1P)" quarks="cC">
+</particle>
+
+<particle massMeV="3.52593E+03" massErrPlus="2.7E-01" massErrMinus="2.7E-01" widthMeV="1.1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="10443" chrg="0" r="" s="S" name="h(c)(1P)" quarks="cC">
+</particle>
+
+<particle massMeV="3.55620E+03" massErrPlus="9.0E-02" massErrMinus="9.0E-02" widthMeV="2.06E+00"
+	 widthErrPlus="1.2E-01" widthErrMinus="1.2E-01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="445" chrg="0" r="" s="R" name="chi(c2)(1P)" quarks="cC">
+</particle>
+
+<particle massMeV="3.638E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="1.4E+01"
+	 widthErrPlus="7.0E+00" widthErrMinus="7.0E+00" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="100441" chrg="0" r="" s="R" name="eta(c)(2S)" quarks="cC">
+</particle>
+
+<particle massMeV="3.686093E+03" massErrPlus="3.4E-02" massErrMinus="3.4E-02" widthMeV="3.37E-01"
+	 widthErrPlus="1.3E-02" widthErrMinus="1.3E-02" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="100443" chrg="0" r="" s="R" name="psi(2S)" quarks="cC">
+</particle>
+
+<particle massMeV="3.7711E+03" massErrPlus="2.4E+00" massErrMinus="2.4E+00" widthMeV="2.30E+01"
+	 widthErrPlus="2.7E+00" widthErrMinus="2.7E+00" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="30443" chrg="0" r="" s="R" name="psi(3770)" quarks="cC">
+</particle>
+
+<particle massMeV="3.8712E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="4.1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="?" j="?" p="?" c="+" a=""
+	 pdg-mc="" chrg="0" r="" s="R" name="X(3872)" quarks="cC">
+</particle>
+
+<particle massMeV="3.929E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.90E+01"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="100445" chrg="0" r="" s="R" name="chi(c2)(2P)" quarks="cC">
+</particle>
+
+<particle massMeV="3.943E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="8.7E-05"
+	 widthErrPlus="3.4E-05" widthErrMinus="3.4E-05" i="?" g="?" j="?" p="?" c="?" a=""
+	 pdg-mc="" chrg="0" r="" s="S" name="Y(3940)" quarks="cC">
+</particle>
+
+<particle massMeV="4.03900E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="8.00E+01"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="9000443" chrg="0" r="" s="R" name="psi(4040)" quarks="cC">
+</particle>
+
+<particle massMeV="4.1530E+03" massErrPlus="3.0E+00" massErrMinus="3.0E+00" widthMeV="1.03E+02"
+	 widthErrPlus="8.0E+00" widthErrMinus="8.0E+00" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="9010443" chrg="0" r="" s="R" name="psi(4160)" quarks="cC">
+</particle>
+
+<particle massMeV="4.259E+03" massErrPlus="8.0E+00" massErrMinus="1.0E+01" widthMeV="8.8E+01"
+	 widthErrPlus="2.4E+01" widthErrMinus="2.4E+01" i="?" g="?" j="1" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="S" name="Y(4260)" quarks="cC">
+</particle>
+
+<particle massMeV="4.421E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="6.2E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="9020443" chrg="0" r="" s="R" name="psi(4415)" quarks="cC">
+</particle>
+
+<particle massMeV="9.300E+03" massErrPlus="2.8E+01" massErrMinus="2.8E+01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="0" p="-" c="+" a=""
+	 pdg-mc="551" chrg="0" r="" s="S" name="eta(b)(1S)" quarks="bB">
+</particle>
+
+<particle massMeV="9.46030E+03" massErrPlus="2.6E-01" massErrMinus="2.6E-01" widthMeV="5.40E-02"
+	 widthErrPlus="1.3E-03" widthErrMinus="1.3E-03" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="553" chrg="0" r="" s="R" name="Upsilon(1S)" quarks="bB">
+</particle>
+
+<particle massMeV="9.8594E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="10551" chrg="0" r="" s="R" name="chi(b0)(1P)" quarks="bB">
+</particle>
+
+<particle massMeV="9.8928E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="20553" chrg="0" r="" s="R" name="chi(b1)(1P)" quarks="bB">
+</particle>
+
+<particle massMeV="9.9122E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="555" chrg="0" r="" s="R" name="chi(b2)(1P)" quarks="bB">
+</particle>
+
+<particle massMeV="1.002326E+04" massErrPlus="3.1E-01" massErrMinus="3.1E-01" widthMeV="3.20E-02"
+	 widthErrPlus="2.6E-03" widthErrMinus="2.6E-03" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="100553" chrg="0" r="" s="R" name="Upsilon(2S)" quarks="bB">
+</particle>
+
+<particle massMeV="1.01611E+04" massErrPlus="1.7E+00" massErrMinus="1.7E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="-" j="2" p="-" c="-" a=""
+	 pdg-mc="" chrg="0" r="" s="S" name="Upsilon(1D)" quarks="bB">
+</particle>
+
+<particle massMeV="1.02325E+04" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="0" p="+" c="+" a=""
+	 pdg-mc="110551" chrg="0" r="" s="R" name="chi(b0)(2P)" quarks="bB">
+</particle>
+
+<particle massMeV="1.02555E+04" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="1" p="+" c="+" a=""
+	 pdg-mc="120553" chrg="0" r="" s="R" name="chi(b1)(2P)" quarks="bB">
+</particle>
+
+<particle massMeV="1.02686E+04" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="+" j="2" p="+" c="+" a=""
+	 pdg-mc="100555" chrg="0" r="" s="R" name="chi(b2)(2P)" quarks="bB">
+</particle>
+
+<particle massMeV="1.03552E+04" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="2.03E-02"
+	 widthErrPlus="1.9E-03" widthErrMinus="1.9E-03" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="200553" chrg="0" r="" s="R" name="Upsilon(3S)" quarks="bB">
+</particle>
+
+<particle massMeV="1.05794E+04" massErrPlus="1.2E+00" massErrMinus="1.2E+00" widthMeV="2.05E+01"
+	 widthErrPlus="2.5E+00" widthErrMinus="2.5E+00" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="300553" chrg="0" r="" s="R" name="Upsilon(4S)" quarks="bB">
+</particle>
+
+<particle massMeV="1.0865E+04" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="1.10E+02"
+	 widthErrPlus="1.3E+01" widthErrMinus="1.3E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="9000553" chrg="0" r="" s="R" name="Upsilon(10860)" quarks="bB">
+</particle>
+
+<particle massMeV="1.1019E+04" massErrPlus="8.0E+00" massErrMinus="8.0E+00" widthMeV="7.9E+01"
+	 widthErrPlus="1.6E+01" widthErrMinus="1.6E+01" i="0" g="-" j="1" p="-" c="-" a=""
+	 pdg-mc="9010553" chrg="0" r="" s="R" name="Upsilon(11020)" quarks="bB">
+</particle>
+
+<particle massMeV="9.3827203E+02" massErrPlus="8.0E-05" massErrMinus="8.0E-05" widthMeV="0.0E+00"
+	 widthErrPlus="0.0E+00" widthErrMinus="0.0E+00" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="2212" chrg="+" r="4" s="R" name="p(P11)" quarks="uud">
+</particle>
+
+<particle massMeV="9.3956536E+02" massErrPlus="8.0E-05" massErrMinus="8.0E-05" widthMeV="7.432E-25"
+	 widthErrPlus="7.0E-28" widthErrMinus="7.0E-28" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="2112" chrg="0" r="4" s="R" name="n(P11)" quarks="udd">
+</particle>
+
+<particle massMeV="1.440E+03" massErrPlus="3.0E+01" massErrMinus="2.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.0E+02" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="12212" chrg="+" r="4" s="R" name="N(1440)(P11)" quarks="uud">
+</particle>
+
+<particle massMeV="1.440E+03" massErrPlus="3.0E+01" massErrMinus="2.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.0E+02" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="12112" chrg="0" r="4" s="R" name="N(1440)(P11)" quarks="udd">
+</particle>
+
+<particle massMeV="1.520E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.150E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.5E+01" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="2124" chrg="+" r="4" s="R" name="N(1520)(D13)" quarks="uud">
+</particle>
+
+<particle massMeV="1.520E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.150E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.5E+01" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="1214" chrg="0" r="4" s="R" name="N(1520)(D13)" quarks="udd">
+</particle>
+
+<particle massMeV="1.5350E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="1.50E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="22212" chrg="+" r="4" s="R" name="N(1535)(S11)" quarks="uud">
+</particle>
+
+<particle massMeV="1.5350E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="1.50E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="22112" chrg="0" r="4" s="R" name="N(1535)(S11)" quarks="udd">
+</particle>
+
+<particle massMeV="1.6550E+03" massErrPlus="1.5E+01" massErrMinus="1.0E+01" widthMeV="1.65E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="32212" chrg="+" r="4" s="D" name="N(1650)(S11)" quarks="uud">
+</particle>
+
+<particle massMeV="1.6550E+03" massErrPlus="1.5E+01" massErrMinus="1.0E+01" widthMeV="1.65E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="32112" chrg="0" r="4" s="D" name="N(1650)(S11)" quarks="udd">
+</particle>
+
+<particle massMeV="1.675E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.50E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="2216" chrg="+" r="4" s="D" name="N(1675)(D15)" quarks="uud">
+</particle>
+
+<particle massMeV="1.675E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.50E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="2116" chrg="0" r="4" s="D" name="N(1675)(D15)" quarks="udd">
+</particle>
+
+<particle massMeV="1.685E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.300E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="1/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="12216" chrg="+" r="4" s="D" name="N(1680)(F15)" quarks="uud">
+</particle>
+
+<particle massMeV="1.685E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.300E+02"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="1/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="12116" chrg="0" r="4" s="D" name="N(1680)(F15)" quarks="udd">
+</particle>
+
+<particle massMeV="1.70E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="22124" chrg="+" r="3" s="D" name="N(1700)(D13)" quarks="uud">
+</particle>
+
+<particle massMeV="1.70E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="21214" chrg="0" r="3" s="D" name="N(1700)(D13)" quarks="udd">
+</particle>
+
+<particle massMeV="1.710E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="5.0E+01" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="42212" chrg="+" r="3" s="D" name="N(1710)(P11)" quarks="uud">
+</particle>
+
+<particle massMeV="1.710E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="5.0E+01" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="42112" chrg="0" r="3" s="D" name="N(1710)(P11)" quarks="udd">
+</particle>
+
+<particle massMeV="1.720E+03" massErrPlus="3.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="32124" chrg="+" r="4" s="D" name="N(1720)(P13)" quarks="uud">
+</particle>
+
+<particle massMeV="1.720E+03" massErrPlus="3.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="31214" chrg="0" r="4" s="D" name="N(1720)(P13)" quarks="udd">
+</particle>
+
+<particle massMeV="1.879E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="5.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="N(1900)(P13)" quarks="uud">
+</particle>
+
+<particle massMeV="1.879E+03" massErrPlus="1.7E+01" massErrMinus="1.7E+01" widthMeV="5.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="N(1900)(P13)" quarks="udd">
+</particle>
+
+<particle massMeV="2.086E+03" massErrPlus="2.8E+01" massErrMinus="2.8E+01" widthMeV="5.4E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="1/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="N(1990)(F17)" quarks="uud">
+</particle>
+
+<particle massMeV="2.086E+03" massErrPlus="2.8E+01" massErrMinus="2.8E+01" widthMeV="5.4E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="1/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="N(1990)(F17)" quarks="udd">
+</particle>
+
+<particle massMeV="1.90E+03" massErrPlus="9.0E+01" massErrMinus="9.0E+01" widthMeV="4.9E+02"
+	 widthErrPlus="3.1E+02" widthErrMinus="3.1E+02" i="1/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="N(2000)(F15)" quarks="uud">
+</particle>
+
+<particle massMeV="1.90E+03" massErrPlus="9.0E+01" massErrMinus="9.0E+01" widthMeV="4.9E+02"
+	 widthErrPlus="3.1E+02" widthErrMinus="3.1E+02" i="1/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="N(2000)(F15)" quarks="udd">
+</particle>
+
+<particle massMeV="1.80E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.5E+02"
+	 widthErrPlus="1.8E+02" widthErrMinus="1.8E+02" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="N(2080)(D13)" quarks="uud">
+</particle>
+
+<particle massMeV="1.80E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.5E+02"
+	 widthErrPlus="1.8E+02" widthErrMinus="1.8E+02" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="N(2080)(D13)" quarks="udd">
+</particle>
+
+<particle massMeV="1.93E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.1E+02"
+	 widthErrPlus="1.6E+02" widthErrMinus="1.6E+02" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="N(2090)(S11)" quarks="uud">
+</particle>
+
+<particle massMeV="1.93E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.1E+02"
+	 widthErrPlus="1.6E+02" widthErrMinus="1.6E+02" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="N(2090)(S11)" quarks="udd">
+</particle>
+
+<particle massMeV="1.885E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.1E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="N(2100)(P11)" quarks="uud">
+</particle>
+
+<particle massMeV="1.885E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.1E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="N(2100)(P11)" quarks="udd">
+</particle>
+
+<particle massMeV="2.1900E+03" massErrPlus="1.0E+01" massErrMinus="9.0E+01" widthMeV="5.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="1/2" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="2128" chrg="+" r="4" s="D" name="N(2190)(G17)" quarks="uud">
+</particle>
+
+<particle massMeV="2.1900E+03" massErrPlus="1.0E+01" massErrMinus="9.0E+01" widthMeV="5.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="1/2" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="1218" chrg="0" r="4" s="D" name="N(2190)(G17)" quarks="udd">
+</particle>
+
+<particle massMeV="1900" massErrPlus="-1" massErrMinus="-1" widthMeV="130"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="N(2200)(D15)" quarks="uud">
+</particle>
+
+<particle massMeV="1900" massErrPlus="-1" massErrMinus="-1" widthMeV="130"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="N(2200)(D15)" quarks="udd">
+</particle>
+
+<particle massMeV="2.25E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="4.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="1/2" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="4" s="D" name="N(2220)(H19)" quarks="uud">
+</particle>
+
+<particle massMeV="2.25E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="4.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="1/2" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="4" s="D" name="N(2220)(H19)" quarks="udd">
+</particle>
+
+<particle massMeV="2.28E+03" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="5.0E+02"
+	 widthErrPlus="3.0E+02" widthErrMinus="2.7E+02" i="1/2" g="" j="9/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="4" s="D" name="N(2250)(G19)" quarks="uud">
+</particle>
+
+<particle massMeV="2.28E+03" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="5.0E+02"
+	 widthErrPlus="3.0E+02" widthErrMinus="2.7E+02" i="1/2" g="" j="9/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="4" s="D" name="N(2250)(G19)" quarks="udd">
+</particle>
+
+<particle massMeV="2.60E+03" massErrPlus="1.5E+02" massErrMinus="5.0E+01" widthMeV="6.5E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="1/2" g="" j="11/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="D" name="N(2600)(I111)" quarks="uud">
+</particle>
+
+<particle massMeV="2.60E+03" massErrPlus="1.5E+02" massErrMinus="5.0E+01" widthMeV="6.5E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="1/2" g="" j="11/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="D" name="N(2600)(I111)" quarks="udd">
+</particle>
+
+<particle massMeV="3.000E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="3.5E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="13/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="N(2700)(K113)" quarks="uud">
+</particle>
+
+<particle massMeV="3.000E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="3.5E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="1/2" g="" j="13/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="N(2700)(K113)" quarks="udd">
+</particle>
+
+<particle massMeV="1.23200E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="1.180E+02"
+	 widthErrPlus="2.0E+00" widthErrMinus="2.0E+00" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="2224" chrg="++" r="4" s="R" name="Delta(1232)(P33)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.23200E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="1.180E+02"
+	 widthErrPlus="2.0E+00" widthErrMinus="2.0E+00" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="2214" chrg="+" r="4" s="R" name="Delta(1232)(P33)" quarks="uud">
+</particle>
+
+<particle massMeV="1.23200E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="1.180E+02"
+	 widthErrPlus="2.0E+00" widthErrMinus="2.0E+00" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="2114" chrg="0" r="4" s="R" name="Delta(1232)(P33)" quarks="udd">
+</particle>
+
+<particle massMeV="1.23200E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="1.180E+02"
+	 widthErrPlus="2.0E+00" widthErrMinus="2.0E+00" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="1114" chrg="-" r="4" s="R" name="Delta(1232)(P33)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.60E+03" massErrPlus="1.0E+02" massErrMinus="5.0E+01" widthMeV="3.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="32224" chrg="++" r="3" s="R" name="Delta(1600)(P33)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.60E+03" massErrPlus="1.0E+02" massErrMinus="5.0E+01" widthMeV="3.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="32214" chrg="+" r="3" s="R" name="Delta(1600)(P33)" quarks="uud">
+</particle>
+
+<particle massMeV="1.60E+03" massErrPlus="1.0E+02" massErrMinus="5.0E+01" widthMeV="3.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="32114" chrg="0" r="3" s="R" name="Delta(1600)(P33)" quarks="udd">
+</particle>
+
+<particle massMeV="1.60E+03" massErrPlus="1.0E+02" massErrMinus="5.0E+01" widthMeV="3.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="31114" chrg="-" r="3" s="R" name="Delta(1600)(P33)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.630E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.45E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="1.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="2222" chrg="++" r="4" s="R" name="Delta(1620)(S31)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.630E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.45E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="1.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="2122" chrg="+" r="4" s="R" name="Delta(1620)(S31)" quarks="uud">
+</particle>
+
+<particle massMeV="1.630E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.45E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="1.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="1212" chrg="0" r="4" s="R" name="Delta(1620)(S31)" quarks="udd">
+</particle>
+
+<particle massMeV="1.630E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.45E+02"
+	 widthErrPlus="5.0E+00" widthErrMinus="1.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="1112" chrg="-" r="4" s="R" name="Delta(1620)(S31)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.700E+03" massErrPlus="5.0E+01" massErrMinus="3.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="12224" chrg="++" r="4" s="D" name="Delta(1700)(D33)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.700E+03" massErrPlus="5.0E+01" massErrMinus="3.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="12214" chrg="+" r="4" s="D" name="Delta(1700)(D33)" quarks="uud">
+</particle>
+
+<particle massMeV="1.700E+03" massErrPlus="5.0E+01" massErrMinus="3.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="12114" chrg="0" r="4" s="D" name="Delta(1700)(D33)" quarks="udd">
+</particle>
+
+<particle massMeV="1.700E+03" massErrPlus="5.0E+01" massErrMinus="3.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="11114" chrg="-" r="4" s="D" name="Delta(1700)(D33)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.74E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="1" s="S" name="Delta(1750)(P31)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.74E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Delta(1750)(P31)" quarks="uud">
+</particle>
+
+<particle massMeV="1.74E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Delta(1750)(P31)" quarks="udd">
+</particle>
+
+<particle massMeV="1.74E+03" massErrPlus="4.0E+01" massErrMinus="4.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="1.2E+02" widthErrMinus="1.2E+02" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Delta(1750)(P31)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.90E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="12222" chrg="++" r="2" s="S" name="Delta(1900)(S31)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.90E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="12212" chrg="+" r="2" s="S" name="Delta(1900)(S31)" quarks="uud">
+</particle>
+
+<particle massMeV="1.90E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="12112" chrg="0" r="2" s="S" name="Delta(1900)(S31)" quarks="udd">
+</particle>
+
+<particle massMeV="1.90E+03" massErrPlus="5.0E+01" massErrMinus="5.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="11112" chrg="-" r="2" s="S" name="Delta(1900)(S31)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.890E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.3E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="2226" chrg="++" r="4" s="D" name="Delta(1905)(F35)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.890E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.3E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="2126" chrg="+" r="4" s="D" name="Delta(1905)(F35)" quarks="uud">
+</particle>
+
+<particle massMeV="1.890E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.3E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="1216" chrg="0" r="4" s="D" name="Delta(1905)(F35)" quarks="udd">
+</particle>
+
+<particle massMeV="1.890E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.3E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="1116" chrg="-" r="4" s="D" name="Delta(1905)(F35)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.9100E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="22222" chrg="++" r="4" s="D" name="Delta(1910)(P31)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.9100E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="22122" chrg="+" r="4" s="D" name="Delta(1910)(P31)" quarks="uud">
+</particle>
+
+<particle massMeV="1.9100E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="21212" chrg="0" r="4" s="D" name="Delta(1910)(P31)" quarks="udd">
+</particle>
+
+<particle massMeV="1.9100E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.50E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="6.0E+01" i="3/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="21112" chrg="-" r="4" s="D" name="Delta(1910)(P31)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.920E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="22224" chrg="++" r="3" s="D" name="Delta(1920)(P33)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.920E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="22214" chrg="+" r="3" s="D" name="Delta(1920)(P33)" quarks="uud">
+</particle>
+
+<particle massMeV="1.920E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="22114" chrg="0" r="3" s="D" name="Delta(1920)(P33)" quarks="udd">
+</particle>
+
+<particle massMeV="1.920E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="3/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="21114" chrg="-" r="3" s="D" name="Delta(1920)(P33)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.96E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.6E+02"
+	 widthErrPlus="1.4E+02" widthErrMinus="1.4E+02" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="12226" chrg="++" r="3" s="D" name="Delta(1930)(D35)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.96E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.6E+02"
+	 widthErrPlus="1.4E+02" widthErrMinus="1.4E+02" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="12126" chrg="+" r="3" s="D" name="Delta(1930)(D35)" quarks="uud">
+</particle>
+
+<particle massMeV="1.96E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.6E+02"
+	 widthErrPlus="1.4E+02" widthErrMinus="1.4E+02" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="11216" chrg="0" r="3" s="D" name="Delta(1930)(D35)" quarks="udd">
+</particle>
+
+<particle massMeV="1.96E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.6E+02"
+	 widthErrPlus="1.4E+02" widthErrMinus="1.4E+02" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="11116" chrg="-" r="3" s="D" name="Delta(1930)(D35)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.06E+03" massErrPlus="1.1E+02" massErrMinus="1.1E+02" widthMeV="4.6E+02"
+	 widthErrPlus="3.2E+02" widthErrMinus="3.2E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="++" r="1" s="S" name="Delta(1940)(D33)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.06E+03" massErrPlus="1.1E+02" massErrMinus="1.1E+02" widthMeV="4.6E+02"
+	 widthErrPlus="3.2E+02" widthErrMinus="3.2E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Delta(1940)(D33)" quarks="uud">
+</particle>
+
+<particle massMeV="2.06E+03" massErrPlus="1.1E+02" massErrMinus="1.1E+02" widthMeV="4.6E+02"
+	 widthErrPlus="3.2E+02" widthErrMinus="3.2E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Delta(1940)(D33)" quarks="udd">
+</particle>
+
+<particle massMeV="2.06E+03" massErrPlus="1.1E+02" massErrMinus="1.1E+02" widthMeV="4.6E+02"
+	 widthErrPlus="3.2E+02" widthErrMinus="3.2E+02" i="3/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Delta(1940)(D33)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.930E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="2.8E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="2228" chrg="++" r="4" s="D" name="Delta(1950)(F37)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.930E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="2.8E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="2218" chrg="+" r="4" s="D" name="Delta(1950)(F37)" quarks="uud">
+</particle>
+
+<particle massMeV="1.930E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="2.8E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="2118" chrg="0" r="4" s="D" name="Delta(1950)(F37)" quarks="udd">
+</particle>
+
+<particle massMeV="1.930E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="2.8E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="1118" chrg="-" r="4" s="D" name="Delta(1950)(F37)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.72E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="1.4E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="2" s="S" name="Delta(2000)(F35)" quarks="uuu">
+</particle>
+
+<particle massMeV="1.72E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="1.4E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Delta(2000)(F35)" quarks="uud">
+</particle>
+
+<particle massMeV="1.72E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="1.4E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Delta(2000)(F35)" quarks="udd">
+</particle>
+
+<particle massMeV="1.72E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="1.4E+02"
+	 widthErrPlus="7.0E+01" widthErrMinus="7.0E+01" i="3/2" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Delta(2000)(F35)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.047E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="2.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="++" r="1" s="S" name="Delta(2150)(S31)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.047E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="2.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Delta(2150)(S31)" quarks="uud">
+</particle>
+
+<particle massMeV="2.047E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="2.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Delta(2150)(S31)" quarks="udd">
+</particle>
+
+<particle massMeV="2.047E+03" massErrPlus="2.7E+01" massErrMinus="2.7E+01" widthMeV="2.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Delta(2150)(S31)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.22E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="++" r="1" s="S" name="Delta(2200)(G37)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.22E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Delta(2200)(G37)" quarks="uud">
+</particle>
+
+<particle massMeV="2.22E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Delta(2200)(G37)" quarks="udd">
+</particle>
+
+<particle massMeV="2.22E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Delta(2200)(G37)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.2045E+03" massErrPlus="3.4E+00" massErrMinus="3.4E+00" widthMeV="4.2E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="3/2" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="2" s="S" name="Delta(2300)(H39)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.2045E+03" massErrPlus="3.4E+00" massErrMinus="3.4E+00" widthMeV="4.2E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="3/2" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Delta(2300)(H39)" quarks="uud">
+</particle>
+
+<particle massMeV="2.2045E+03" massErrPlus="3.4E+00" massErrMinus="3.4E+00" widthMeV="4.2E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="3/2" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Delta(2300)(H39)" quarks="udd">
+</particle>
+
+<particle massMeV="2.2045E+03" massErrPlus="3.4E+00" massErrMinus="3.4E+00" widthMeV="4.2E+02"
+	 widthErrPlus="1.5E+02" widthErrMinus="1.5E+02" i="3/2" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Delta(2300)(H39)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.171E+03" massErrPlus="1.8E+01" massErrMinus="1.8E+01" widthMeV="2.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="++" r="1" s="S" name="Delta(2350)(D35)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.171E+03" massErrPlus="1.8E+01" massErrMinus="1.8E+01" widthMeV="2.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Delta(2350)(D35)" quarks="uud">
+</particle>
+
+<particle massMeV="2.171E+03" massErrPlus="1.8E+01" massErrMinus="1.8E+01" widthMeV="2.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Delta(2350)(D35)" quarks="udd">
+</particle>
+
+<particle massMeV="2.171E+03" massErrPlus="1.8E+01" massErrMinus="1.8E+01" widthMeV="2.6E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="3/2" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Delta(2350)(D35)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="1" s="S" name="Delta(2390)(F37)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Delta(2390)(F37)" quarks="uud">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Delta(2390)(F37)" quarks="udd">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="6.0E+01" massErrMinus="6.0E+01" widthMeV="3.0E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="3/2" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Delta(2390)(F37)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.300E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="3.30E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="9/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="++" r="2" s="S" name="Delta(2400)(G39)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.300E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="3.30E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="9/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Delta(2400)(G39)" quarks="uud">
+</particle>
+
+<particle massMeV="2.300E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="3.30E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="9/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Delta(2400)(G39)" quarks="udd">
+</particle>
+
+<particle massMeV="2.300E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="3.30E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="9/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Delta(2400)(G39)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="8.0E+01" massErrMinus="1.2E+02" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="11/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="4" s="D" name="Delta(2420)(H311)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="8.0E+01" massErrMinus="1.2E+02" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="11/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="4" s="D" name="Delta(2420)(H311)" quarks="uud">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="8.0E+01" massErrMinus="1.2E+02" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="11/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="4" s="D" name="Delta(2420)(H311)" quarks="udd">
+</particle>
+
+<particle massMeV="2.42E+03" massErrPlus="8.0E+01" massErrMinus="1.2E+02" widthMeV="4.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="11/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="4" s="D" name="Delta(2420)(H311)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.79E+03" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="5.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="13/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="++" r="2" s="S" name="Delta(2750)(I313)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.79E+03" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="5.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="13/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Delta(2750)(I313)" quarks="uud">
+</particle>
+
+<particle massMeV="2.79E+03" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="5.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="13/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Delta(2750)(I313)" quarks="udd">
+</particle>
+
+<particle massMeV="2.79E+03" massErrPlus="8.0E+01" massErrMinus="8.0E+01" widthMeV="5.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="3/2" g="" j="13/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Delta(2750)(I313)" quarks="ddd">
+</particle>
+
+<particle massMeV="2.850E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="7.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="3/2" g="" j="15/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="2" s="S" name="Delta(2950)(K315)" quarks="uuu">
+</particle>
+
+<particle massMeV="2.850E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="7.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="3/2" g="" j="15/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Delta(2950)(K315)" quarks="uud">
+</particle>
+
+<particle massMeV="2.850E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="7.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="3/2" g="" j="15/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Delta(2950)(K315)" quarks="udd">
+</particle>
+
+<particle massMeV="2.850E+03" massErrPlus="1.0E+02" massErrMinus="1.0E+02" widthMeV="7.0E+02"
+	 widthErrPlus="2.0E+02" widthErrMinus="2.0E+02" i="3/2" g="" j="15/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Delta(2950)(K315)" quarks="ddd">
+</particle>
+
+<particle massMeV="1.5336E+03" massErrPlus="2.4E+00" massErrMinus="2.4E+00" widthMeV="9.0E-01"
+	 widthErrPlus="3.0E-01" widthErrMinus="3.0E-01" i="0" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="9221132" chrg="+" r="1" s="S" name="Theta(1540)" quarks="uuddS">
+</particle>
+
+<particle massMeV="1.8620E+03" massErrPlus="2.0E+00" massErrMinus="2.0E+00" widthMeV="18"
+	 widthErrPlus="-1" widthErrMinus="-1" i="3/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="9331122" chrg="--" r="" s="S" name="Phi(1860)" quarks="ssddU">
+</particle>
+
+<particle massMeV="3.099E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="Theta(c)(3100)" quarks="uuddc">
+</particle>
+
+<particle massMeV="1.115683E+03" massErrPlus="6.0E-03" massErrMinus="6.0E-03" widthMeV="2.501E-12"
+	 widthErrPlus="1.9E-14" widthErrMinus="1.9E-14" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3122" chrg="0" r="4" s="R" name="Lambda(P01)" quarks="uds">
+</particle>
+
+<particle massMeV="1.407E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="5.00E+01"
+	 widthErrPlus="2.0E+00" widthErrMinus="2.0E+00" i="0" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="13122" chrg="0" r="4" s="R" name="Lambda(1405)(S01)" quarks="uds">
+</particle>
+
+<particle massMeV="1.51950E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="1.560E+01"
+	 widthErrPlus="1.0E+00" widthErrMinus="1.0E+00" i="0" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="3124" chrg="0" r="4" s="R" name="Lambda(1520)(D03)" quarks="uds">
+</particle>
+
+<particle massMeV="1.60E+03" massErrPlus="1.0E+02" massErrMinus="4.0E+01" widthMeV="1.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="23122" chrg="0" r="3" s="D" name="Lambda(1600)(P01)" quarks="uds">
+</particle>
+
+<particle massMeV="1.6700E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="3.50E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.0E+01" i="0" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="33122" chrg="0" r="4" s="D" name="Lambda(1670)(S01)" quarks="uds">
+</particle>
+
+<particle massMeV="1.690E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="6.00E+01"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="0" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="13124" chrg="0" r="4" s="D" name="Lambda(1690)(D03)" quarks="uds">
+</particle>
+
+<particle massMeV="1.80E+03" massErrPlus="5.0E+01" massErrMinus="8.0E+01" widthMeV="3.00E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="0" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="43122" chrg="0" r="3" s="D" name="Lambda(1800)(S01)" quarks="uds">
+</particle>
+
+<particle massMeV="1.81E+03" massErrPlus="4.0E+01" massErrMinus="6.0E+01" widthMeV="1.50E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="1.0E+02" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="53122" chrg="0" r="3" s="D" name="Lambda(1810)(P01)" quarks="uds">
+</particle>
+
+<particle massMeV="1.820E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="8.00E+01"
+	 widthErrPlus="1.0E+01" widthErrMinus="1.0E+01" i="0" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="3126" chrg="0" r="4" s="D" name="Lambda(1820)(F05)" quarks="uds">
+</particle>
+
+<particle massMeV="1.830E+03" massErrPlus="0.0E+00" massErrMinus="2.0E+01" widthMeV="9.5E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="3.5E+01" i="0" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="13126" chrg="0" r="4" s="D" name="Lambda(1830)(D05)" quarks="uds">
+</particle>
+
+<particle massMeV="1.890E+03" massErrPlus="2.0E+01" massErrMinus="4.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="4.0E+01" i="0" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="23124" chrg="0" r="4" s="D" name="Lambda(1890)(P03)" quarks="uds">
+</particle>
+
+<particle massMeV="2.030E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.25E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="0" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Lambda(2000)" quarks="uds">
+</particle>
+
+<particle massMeV="2140" massErrPlus="-1" massErrMinus="-1" widthMeV="128"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Lambda(2020)(F07)" quarks="uds">
+</particle>
+
+<particle massMeV="2.1000E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="1.0E+02" i="0" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="3128" chrg="0" r="4" s="D" name="Lambda(2100)(G07)" quarks="uds">
+</particle>
+
+<particle massMeV="2.110E+03" massErrPlus="3.0E+01" massErrMinus="2.0E+01" widthMeV="2.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="5.0E+01" i="0" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="23126" chrg="0" r="3" s="D" name="Lambda(2110)(F05)" quarks="uds">
+</particle>
+
+<particle massMeV="2.342E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.6E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="0" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Lambda(2325)(D03)" quarks="uds">
+</particle>
+
+<particle massMeV="2.3500E+03" massErrPlus="2.0E+01" massErrMinus="1.0E+01" widthMeV="1.5E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="5.0E+01" i="0" g="" j="9/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="D" name="Lambda(2350)(H09)" quarks="uds">
+</particle>
+
+<particle massMeV="2.530E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="150"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Lambda(2585)" quarks="uds">
+</particle>
+
+<particle massMeV="1.18937E+03" massErrPlus="7.0E-02" massErrMinus="7.0E-02" widthMeV="8.209E-12"
+	 widthErrPlus="2.7E-14" widthErrMinus="2.7E-14" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3222" chrg="+" r="4" s="R" name="Sigma(P11)" quarks="uus">
+</particle>
+
+<particle massMeV="1.192642E+03" massErrPlus="2.4E-02" massErrMinus="2.4E-02" widthMeV="8.9E-03"
+	 widthErrPlus="9.0E-04" widthErrMinus="8.0E-04" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3212" chrg="0" r="4" s="R" name="Sigma(P11)" quarks="uds">
+</particle>
+
+<particle massMeV="1.197449E+03" massErrPlus="3.0E-02" massErrMinus="3.0E-02" widthMeV="4.450E-12"
+	 widthErrPlus="3.2E-14" widthErrMinus="3.2E-14" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3112" chrg="-" r="4" s="R" name="Sigma(P11)" quarks="dds">
+</particle>
+
+<particle massMeV="1.3828E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="3.58E+01"
+	 widthErrPlus="8.0E-01" widthErrMinus="8.0E-01" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="3224" chrg="+" r="4" s="R" name="Sigma(1385)(P13)" quarks="uus">
+</particle>
+
+<particle massMeV="1.38370E+03" massErrPlus="1.0E+00" massErrMinus="1.0E+00" widthMeV="3.6E+01"
+	 widthErrPlus="5.0E+00" widthErrMinus="5.0E+00" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="3214" chrg="0" r="4" s="R" name="Sigma(1385)(P13)" quarks="uds">
+</particle>
+
+<particle massMeV="1.3872E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="3.94E+01"
+	 widthErrPlus="2.1E+00" widthErrMinus="2.1E+00" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="3114" chrg="-" r="4" s="R" name="Sigma(1385)(P13)" quarks="dds">
+</particle>
+
+<particle massMeV="1.480E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="6.0E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(1480)" quarks="uus">
+</particle>
+
+<particle massMeV="1.480E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="6.0E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(1480)" quarks="uds">
+</particle>
+
+<particle massMeV="1.480E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="6.0E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(1480)" quarks="dds">
+</particle>
+
+<particle massMeV="1.572E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="7.9E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(1560)" quarks="uus">
+</particle>
+
+<particle massMeV="1.572E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="7.9E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(1560)" quarks="uds">
+</particle>
+
+<particle massMeV="1.572E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="7.9E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(1560)" quarks="dds">
+</particle>
+
+<particle massMeV="1.583E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="15"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(1580)(D13)" quarks="uus">
+</particle>
+
+<particle massMeV="1.583E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="15"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(1580)(D13)" quarks="uds">
+</particle>
+
+<particle massMeV="1.583E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="15"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(1580)(D13)" quarks="dds">
+</particle>
+
+<particle massMeV="1.600E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="8.7E+01"
+	 widthErrPlus="1.9E+01" widthErrMinus="1.9E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(1620)(S11)" quarks="uus">
+</particle>
+
+<particle massMeV="1.600E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="8.7E+01"
+	 widthErrPlus="1.9E+01" widthErrMinus="1.9E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(1620)(S11)" quarks="uds">
+</particle>
+
+<particle massMeV="1.600E+03" massErrPlus="6.0E+00" massErrMinus="6.0E+00" widthMeV="8.7E+01"
+	 widthErrPlus="1.9E+01" widthErrMinus="1.9E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(1620)(S11)" quarks="dds">
+</particle>
+
+<particle massMeV="1.642E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="5.5E+01"
+	 widthErrPlus="2.4E+01" widthErrMinus="2.4E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="" s="S" name="Sigma(1620)" quarks="uus">
+</particle>
+
+<particle massMeV="1.642E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="5.5E+01"
+	 widthErrPlus="2.4E+01" widthErrMinus="2.4E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="Sigma(1620)" quarks="uds">
+</particle>
+
+<particle massMeV="1.642E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="5.5E+01"
+	 widthErrPlus="2.4E+01" widthErrMinus="2.4E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="" s="S" name="Sigma(1620)" quarks="dds">
+</particle>
+
+<particle massMeV="1.660E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="6.0E+01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="13222" chrg="+" r="3" s="R" name="Sigma(1660)(P11)" quarks="uus">
+</particle>
+
+<particle massMeV="1.660E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="6.0E+01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="13212" chrg="0" r="3" s="R" name="Sigma(1660)(P11)" quarks="uds">
+</particle>
+
+<particle massMeV="1.660E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="1.0E+02" widthErrMinus="6.0E+01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="13112" chrg="-" r="3" s="R" name="Sigma(1660)(P11)" quarks="dds">
+</particle>
+
+<particle massMeV="1.670E+03" massErrPlus="1.5E+01" massErrMinus="5.0E+00" widthMeV="6.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="13224" chrg="+" r="4" s="D" name="Sigma(1670)(D13)" quarks="uus">
+</particle>
+
+<particle massMeV="1.670E+03" massErrPlus="1.5E+01" massErrMinus="5.0E+00" widthMeV="6.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="13214" chrg="0" r="4" s="D" name="Sigma(1670)(D13)" quarks="uds">
+</particle>
+
+<particle massMeV="1.670E+03" massErrPlus="1.5E+01" massErrMinus="5.0E+00" widthMeV="6.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="13114" chrg="-" r="4" s="D" name="Sigma(1670)(D13)" quarks="dds">
+</particle>
+
+<particle massMeV="1.6750E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="6.70E+01"
+	 widthErrPlus="2.4E+00" widthErrMinus="2.4E+00" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="" s="S" name="Sigma(1670)" quarks="uus">
+</particle>
+
+<particle massMeV="1.6750E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="6.70E+01"
+	 widthErrPlus="2.4E+00" widthErrMinus="2.4E+00" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="" s="S" name="Sigma(1670)" quarks="uds">
+</particle>
+
+<particle massMeV="1.6750E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="6.70E+01"
+	 widthErrPlus="2.4E+00" widthErrMinus="2.4E+00" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="" s="S" name="Sigma(1670)" quarks="dds">
+</particle>
+
+<particle massMeV="1.698E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.4E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(1690)" quarks="uus">
+</particle>
+
+<particle massMeV="1.698E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.4E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(1690)" quarks="uds">
+</particle>
+
+<particle massMeV="1.698E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="2.4E+02"
+	 widthErrPlus="6.0E+01" widthErrMinus="6.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(1690)" quarks="dds">
+</particle>
+
+<particle massMeV="1.750E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="9.0E+01"
+	 widthErrPlus="7.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="23222" chrg="+" r="3" s="D" name="Sigma(1750)(S11)" quarks="uus">
+</particle>
+
+<particle massMeV="1.750E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="9.0E+01"
+	 widthErrPlus="7.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="23212" chrg="0" r="3" s="D" name="Sigma(1750)(S11)" quarks="uds">
+</particle>
+
+<particle massMeV="1.750E+03" massErrPlus="5.0E+01" massErrMinus="2.0E+01" widthMeV="9.0E+01"
+	 widthErrPlus="7.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="23112" chrg="-" r="3" s="D" name="Sigma(1750)(S11)" quarks="dds">
+</particle>
+
+<particle massMeV="1772" massErrPlus="-1" massErrMinus="-1" widthMeV="80"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(1770)(P11)" quarks="uus">
+</particle>
+
+<particle massMeV="1772" massErrPlus="-1" massErrMinus="-1" widthMeV="80"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(1770)(P11)" quarks="uds">
+</particle>
+
+<particle massMeV="1772" massErrPlus="-1" massErrMinus="-1" widthMeV="80"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(1770)(P11)" quarks="dds">
+</particle>
+
+<particle massMeV="1.775E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.20E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="3226" chrg="+" r="4" s="D" name="Sigma(1775)(D15)" quarks="uus">
+</particle>
+
+<particle massMeV="1.775E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.20E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="3216" chrg="0" r="4" s="D" name="Sigma(1775)(D15)" quarks="uds">
+</particle>
+
+<particle massMeV="1.775E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="1.20E+02"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="5/2" p="-" c="" a="F"
+	 pdg-mc="3116" chrg="-" r="4" s="D" name="Sigma(1775)(D15)" quarks="dds">
+</particle>
+
+<particle massMeV="1798" massErrPlus="-1" massErrMinus="-1" widthMeV="93"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(1840)(P13)" quarks="uus">
+</particle>
+
+<particle massMeV="1798" massErrPlus="-1" massErrMinus="-1" widthMeV="93"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(1840)(P13)" quarks="uds">
+</particle>
+
+<particle massMeV="1798" massErrPlus="-1" massErrMinus="-1" widthMeV="93"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(1840)(P13)" quarks="dds">
+</particle>
+
+<particle massMeV="1.826E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="8.6E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(1880)(P11)" quarks="uus">
+</particle>
+
+<particle massMeV="1.826E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="8.6E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(1880)(P11)" quarks="uds">
+</particle>
+
+<particle massMeV="1.826E+03" massErrPlus="2.0E+01" massErrMinus="2.0E+01" widthMeV="8.6E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.5E+01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(1880)(P11)" quarks="dds">
+</particle>
+
+<particle massMeV="1.915E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="1.2E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="13226" chrg="+" r="4" s="D" name="Sigma(1915)(F15)" quarks="uus">
+</particle>
+
+<particle massMeV="1.915E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="1.2E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="13216" chrg="0" r="4" s="D" name="Sigma(1915)(F15)" quarks="uds">
+</particle>
+
+<particle massMeV="1.915E+03" massErrPlus="2.0E+01" massErrMinus="1.5E+01" widthMeV="1.2E+02"
+	 widthErrPlus="4.0E+01" widthErrMinus="4.0E+01" i="1" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="13116" chrg="-" r="4" s="D" name="Sigma(1915)(F15)" quarks="dds">
+</particle>
+
+<particle massMeV="1.9400E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="7.0E+01" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="23224" chrg="+" r="3" s="D" name="Sigma(1940)(D13)" quarks="uus">
+</particle>
+
+<particle massMeV="1.9400E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="7.0E+01" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="23214" chrg="0" r="3" s="D" name="Sigma(1940)(D13)" quarks="uds">
+</particle>
+
+<particle massMeV="1.9400E+03" massErrPlus="1.0E+01" massErrMinus="4.0E+01" widthMeV="2.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="7.0E+01" i="1" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="23114" chrg="-" r="3" s="D" name="Sigma(1940)(D13)" quarks="dds">
+</particle>
+
+<particle massMeV="1.944E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.15E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(2000)(S11)" quarks="uus">
+</particle>
+
+<particle massMeV="1.944E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.15E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(2000)(S11)" quarks="uds">
+</particle>
+
+<particle massMeV="1.944E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="2.15E+02"
+	 widthErrPlus="2.5E+01" widthErrMinus="2.5E+01" i="1" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(2000)(S11)" quarks="dds">
+</particle>
+
+<particle massMeV="2.030E+03" massErrPlus="1.0E+01" massErrMinus="5.0E+00" widthMeV="1.80E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="3228" chrg="+" r="4" s="D" name="Sigma(2030)(F17)" quarks="uus">
+</particle>
+
+<particle massMeV="2.030E+03" massErrPlus="1.0E+01" massErrMinus="5.0E+00" widthMeV="1.80E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="3218" chrg="0" r="4" s="D" name="Sigma(2030)(F17)" quarks="uds">
+</particle>
+
+<particle massMeV="2.030E+03" massErrPlus="1.0E+01" massErrMinus="5.0E+00" widthMeV="1.80E+02"
+	 widthErrPlus="2.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="7/2" p="+" c="" a="F"
+	 pdg-mc="3118" chrg="-" r="4" s="D" name="Sigma(2030)(F17)" quarks="dds">
+</particle>
+
+<particle massMeV="2.051E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.00E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(2070)(F15)" quarks="uus">
+</particle>
+
+<particle massMeV="2.051E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.00E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(2070)(F15)" quarks="uds">
+</particle>
+
+<particle massMeV="2.051E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="3.00E+02"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="5/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(2070)(F15)" quarks="dds">
+</particle>
+
+<particle massMeV="2.095E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="100"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(2080)(P13)" quarks="uus">
+</particle>
+
+<particle massMeV="2.095E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="100"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(2080)(P13)" quarks="uds">
+</particle>
+
+<particle massMeV="2.095E+03" massErrPlus="2.5E+01" massErrMinus="2.5E+01" widthMeV="100"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(2080)(P13)" quarks="dds">
+</particle>
+
+<particle massMeV="2.120E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="7.0E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(2100)(G17)" quarks="uus">
+</particle>
+
+<particle massMeV="2.120E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="7.0E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(2100)(G17)" quarks="uds">
+</particle>
+
+<particle massMeV="2.120E+03" massErrPlus="3.0E+01" massErrMinus="3.0E+01" widthMeV="7.0E+01"
+	 widthErrPlus="3.0E+01" widthErrMinus="3.0E+01" i="1" g="" j="7/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(2100)(G17)" quarks="dds">
+</particle>
+
+<particle massMeV="2.250E+03" massErrPlus="3.0E+01" massErrMinus="4.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="4.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="D" name="Sigma(2250)" quarks="uus">
+</particle>
+
+<particle massMeV="2.250E+03" massErrPlus="3.0E+01" massErrMinus="4.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="4.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="D" name="Sigma(2250)" quarks="uds">
+</particle>
+
+<particle massMeV="2.250E+03" massErrPlus="3.0E+01" massErrMinus="4.0E+01" widthMeV="1.0E+02"
+	 widthErrPlus="5.0E+01" widthErrMinus="4.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="3" s="D" name="Sigma(2250)" quarks="dds">
+</particle>
+
+<particle massMeV="2.4550E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="140"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(2455)" quarks="uus">
+</particle>
+
+<particle massMeV="2.4550E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="140"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(2455)" quarks="uds">
+</particle>
+
+<particle massMeV="2.4550E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="140"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(2455)" quarks="dds">
+</particle>
+
+<particle massMeV="2.542E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Sigma(2620)" quarks="uus">
+</particle>
+
+<particle massMeV="2.542E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Sigma(2620)" quarks="uds">
+</particle>
+
+<particle massMeV="2.542E+03" massErrPlus="2.2E+01" massErrMinus="2.2E+01" widthMeV="2.2E+02"
+	 widthErrPlus="8.0E+01" widthErrMinus="8.0E+01" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Sigma(2620)" quarks="dds">
+</particle>
+
+<particle massMeV="3000" massErrPlus="-1" massErrMinus="-1" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(3000)" quarks="uus">
+</particle>
+
+<particle massMeV="3000" massErrPlus="-1" massErrMinus="-1" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(3000)" quarks="uds">
+</particle>
+
+<particle massMeV="3000" massErrPlus="-1" massErrMinus="-1" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(3000)" quarks="dds">
+</particle>
+
+<particle massMeV="3.170E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="20"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Sigma(3170)" quarks="uus">
+</particle>
+
+<particle massMeV="3.170E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="20"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Sigma(3170)" quarks="uds">
+</particle>
+
+<particle massMeV="3.170E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="20"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Sigma(3170)" quarks="dds">
+</particle>
+
+<particle massMeV="1.31483E+03" massErrPlus="2.0E-01" massErrMinus="2.0E-01" widthMeV="2.27E-12"
+	 widthErrPlus="7.0E-14" widthErrMinus="7.0E-14" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3322" chrg="0" r="4" s="R" name="Xi(P11)" quarks="uss">
+</particle>
+
+<particle massMeV="1.32131E+03" massErrPlus="1.3E-01" massErrMinus="1.3E-01" widthMeV="4.02E-12"
+	 widthErrPlus="4.0E-14" widthErrMinus="4.0E-14" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="3312" chrg="-" r="4" s="R" name="Xi(P11)" quarks="dss">
+</particle>
+
+<particle massMeV="1.53180E+03" massErrPlus="3.2E-01" massErrMinus="3.2E-01" widthMeV="9.1E+00"
+	 widthErrPlus="5.0E-01" widthErrMinus="5.0E-01" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="3324" chrg="0" r="4" s="R" name="Xi(1530)(P13)" quarks="uss">
+</particle>
+
+<particle massMeV="1.5350E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="9.9E+00"
+	 widthErrPlus="1.7E+00" widthErrMinus="1.9E+00" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="3314" chrg="-" r="4" s="R" name="Xi(1530)(P13)" quarks="dss">
+</particle>
+
+<particle massMeV="1.6240E+03" massErrPlus="3.0E+00" massErrMinus="3.0E+00" widthMeV="22.5"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Xi(1620)" quarks="uss">
+</particle>
+
+<particle massMeV="1.6240E+03" massErrPlus="3.0E+00" massErrMinus="3.0E+00" widthMeV="22.5"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Xi(1620)" quarks="dss">
+</particle>
+
+<particle massMeV="1.6900E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="D" name="Xi(1690)" quarks="uss">
+</particle>
+
+<particle massMeV="1.6900E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="3" s="D" name="Xi(1690)" quarks="dss">
+</particle>
+
+<particle massMeV="1.823E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.40E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.0E+01" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="13324" chrg="0" r="3" s="D" name="Xi(1820)(D13)" quarks="uss">
+</particle>
+
+<particle massMeV="1.823E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.40E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="1.0E+01" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="13314" chrg="-" r="3" s="D" name="Xi(1820)(D13)" quarks="dss">
+</particle>
+
+<particle massMeV="1.950E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="6.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="D" name="Xi(1950)" quarks="uss">
+</particle>
+
+<particle massMeV="1.950E+03" massErrPlus="1.5E+01" massErrMinus="1.5E+01" widthMeV="6.0E+01"
+	 widthErrPlus="2.0E+01" widthErrMinus="2.0E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="3" s="D" name="Xi(1950)" quarks="dss">
+</particle>
+
+<particle massMeV="2.025E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.0E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="5.0E+00" i="1/2" g="" j=">3/2" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="D" name="Xi(2030)" quarks="uss">
+</particle>
+
+<particle massMeV="2.025E+03" massErrPlus="5.0E+00" massErrMinus="5.0E+00" widthMeV="2.0E+01"
+	 widthErrPlus="1.5E+01" widthErrMinus="5.0E+00" i="1/2" g="" j=">3/2" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="3" s="D" name="Xi(2030)" quarks="dss">
+</particle>
+
+<particle massMeV="2.137E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="20"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Xi(2120)" quarks="uss">
+</particle>
+
+<particle massMeV="2.137E+03" massErrPlus="4.0E+00" massErrMinus="4.0E+00" widthMeV="20"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Xi(2120)" quarks="dss">
+</particle>
+
+<particle massMeV="2.189E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="4.6E+01"
+	 widthErrPlus="2.7E+01" widthErrMinus="2.7E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Xi(2250)" quarks="uss">
+</particle>
+
+<particle massMeV="2.189E+03" massErrPlus="7.0E+00" massErrMinus="7.0E+00" widthMeV="4.6E+01"
+	 widthErrPlus="2.7E+01" widthErrMinus="2.7E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Xi(2250)" quarks="dss">
+</particle>
+
+<particle massMeV="2.3560E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="80"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="2" s="S" name="Xi(2370)" quarks="uss">
+</particle>
+
+<particle massMeV="2.3560E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="80"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Xi(2370)" quarks="dss">
+</particle>
+
+<particle massMeV="2.5050E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="5.9E+01"
+	 widthErrPlus="2.7E+01" widthErrMinus="2.7E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="0" r="1" s="S" name="Xi(2500)" quarks="uss">
+</particle>
+
+<particle massMeV="2.5050E+03" massErrPlus="1.0E+01" massErrMinus="1.0E+01" widthMeV="5.9E+01"
+	 widthErrPlus="2.7E+01" widthErrMinus="2.7E+01" i="1/2" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="1" s="S" name="Xi(2500)" quarks="dss">
+</particle>
+
+<particle massMeV="1.67245E+03" massErrPlus="2.9E-01" massErrMinus="2.9E-01" widthMeV="8.02E-12"
+	 widthErrPlus="1.1E-13" widthErrMinus="1.1E-13" i="0" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="3334" chrg="-" r="4" s="R" name="Omega" quarks="sss">
+</particle>
+
+<particle massMeV="2.252E+03" massErrPlus="9.0E+00" massErrMinus="9.0E+00" widthMeV="5.5E+01"
+	 widthErrPlus="1.8E+01" widthErrMinus="1.8E+01" i="0" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="-" r="3" s="R" name="Omega(2250)" quarks="sss">
+</particle>
+
+<particle massMeV="2.384E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="2.6E+01"
+	 widthErrPlus="2.3E+01" widthErrMinus="2.3E+01" i="" g="" j="" p="" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Omega(2380)" quarks="sss">
+</particle>
+
+<particle massMeV="2.474E+03" massErrPlus="1.2E+01" massErrMinus="1.2E+01" widthMeV="7.2E+01"
+	 widthErrPlus="3.3E+01" widthErrMinus="3.3E+01" i="" g="" j="" p="" c="" a="F"
+	 pdg-mc="" chrg="-" r="2" s="S" name="Omega(2470)" quarks="sss">
+</particle>
+
+<particle massMeV="2.28646E+03" massErrPlus="1.4E-01" massErrMinus="1.4E-01" widthMeV="3.30E-09"
+	 widthErrPlus="9.0E-11" widthErrMinus="9.0E-11" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4122" chrg="+" r="4" s="R" name="Lambda(c)" quarks="udc">
+</particle>
+
+<particle massMeV="2.5954E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="3.6E+00"
+	 widthErrPlus="2.0E+00" widthErrMinus="1.3E+00" i="0" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="14122" chrg="+" r="3" s="R" name="Lambda(c)(2593)" quarks="udc">
+</particle>
+
+<particle massMeV="2.6281E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="3.2"
+	 widthErrPlus="-1" widthErrMinus="-1" i="0" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="R" name="Lambda(c)(2625)" quarks="udc">
+</particle>
+
+<particle massMeV="2.7666E+03" massErrPlus="2.4E+00" massErrMinus="2.4E+00" widthMeV="50"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Lambda(c)(2765)" quarks="udc">
+</particle>
+
+<particle massMeV="2.8825E+03" massErrPlus="2.2E+00" massErrMinus="2.2E+00" widthMeV="8"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="2" s="S" name="Lambda(c)(2880)" quarks="udc">
+</particle>
+
+<particle massMeV="2.45402E+03" massErrPlus="1.8E-01" massErrMinus="1.8E-01" widthMeV="2.23E+00"
+	 widthErrPlus="3.0E-01" widthErrMinus="3.0E-01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4222" chrg="++" r="4" s="R" name="Sigma(c)(2455)" quarks="uuc">
+</particle>
+
+<particle massMeV="2.4529E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="4.6"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4212" chrg="+" r="4" s="R" name="Sigma(c)(2455)" quarks="udc">
+</particle>
+
+<particle massMeV="2.45376E+03" massErrPlus="1.8E-01" massErrMinus="1.8E-01" widthMeV="2.2E+00"
+	 widthErrPlus="4.0E-01" widthErrMinus="4.0E-01" i="1" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4112" chrg="0" r="4" s="R" name="Sigma(c)(2455)" quarks="ddc">
+</particle>
+
+<particle massMeV="2.5184E+03" massErrPlus="6.0E-01" massErrMinus="6.0E-01" widthMeV="1.49E+01"
+	 widthErrPlus="1.9E+00" widthErrMinus="1.9E+00" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="++" r="3" s="R" name="Sigma(c)(2520)" quarks="uuc">
+</particle>
+
+<particle massMeV="2.5175E+03" massErrPlus="2.3E+00" massErrMinus="2.3E+00" widthMeV="17"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="R" name="Sigma(c)(2520)" quarks="udc">
+</particle>
+
+<particle massMeV="2.5180E+03" massErrPlus="5.0E-01" massErrMinus="5.0E-01" widthMeV="1.61E+01"
+	 widthErrPlus="2.1E+00" widthErrMinus="2.1E+00" i="1" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="R" name="Sigma(c)(2520)" quarks="ddc">
+</particle>
+
+<particle massMeV="2.4679E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="1.49E-09"
+	 widthErrPlus="9.0E-11" widthErrMinus="9.0E-11" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4232" chrg="+" r="3" s="R" name="Xi(c)" quarks="usc">
+</particle>
+
+<particle massMeV="2.4710E+03" massErrPlus="4.0E-01" massErrMinus="4.0E-01" widthMeV="5.9E-09"
+	 widthErrPlus="6.0E-10" widthErrMinus="6.0E-10" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4132" chrg="0" r="3" s="R" name="Xi(c)" quarks="dsc">
+</particle>
+
+<particle massMeV="2.5757E+03" massErrPlus="3.1E+00" massErrMinus="3.1E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4322" chrg="+" r="3" s="R" name="Xi(c)'" quarks="usc">
+</particle>
+
+<particle massMeV="2.5780E+03" massErrPlus="2.9E+00" massErrMinus="2.9E+00" widthMeV="-1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4312" chrg="0" r="3" s="R" name="Xi(c)'" quarks="dsc">
+</particle>
+
+<particle massMeV="2.6466E+03" massErrPlus="1.4E+00" massErrMinus="1.4E+00" widthMeV="3.1"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="R" name="Xi(c)(2645)" quarks="usc">
+</particle>
+
+<particle massMeV="2.6461E+03" massErrPlus="1.2E+00" massErrMinus="1.2E+00" widthMeV="5.5"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="3/2" p="+" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="R" name="Xi(c)(2645)" quarks="dsc">
+</particle>
+
+<particle massMeV="2.7892E+03" massErrPlus="3.2E+00" massErrMinus="3.2E+00" widthMeV="15"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="R" name="Xi(c)(2790)" quarks="usc">
+</particle>
+
+<particle massMeV="2.7919E+03" massErrPlus="3.3E+00" massErrMinus="3.3E+00" widthMeV="12"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="1/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="R" name="Xi(c)(2790)" quarks="dsc">
+</particle>
+
+<particle massMeV="2.8165E+03" massErrPlus="1.2E+00" massErrMinus="1.2E+00" widthMeV="3.5"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="+" r="3" s="R" name="Xi(c)(2815)" quarks="usc">
+</particle>
+
+<particle massMeV="2.8182E+03" massErrPlus="2.1E+00" massErrMinus="2.1E+00" widthMeV="6.5"
+	 widthErrPlus="-1" widthErrMinus="-1" i="1/2" g="" j="3/2" p="-" c="" a="F"
+	 pdg-mc="" chrg="0" r="3" s="R" name="Xi(c)(2815)" quarks="dsc">
+</particle>
+
+<particle massMeV="2.6975E+03" massErrPlus="2.6E+00" massErrMinus="2.6E+00" widthMeV="9.6E-09"
+	 widthErrPlus="2.1E-09" widthErrMinus="1.4E-09" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="4332" chrg="0" r="3" s="R" name="Omega(c)" quarks="ssc">
+</particle>
+
+<particle massMeV="3.5189E+03" massErrPlus="9.0E-01" massErrMinus="9.0E-01" widthMeV="1.9946E-08"
+	 widthErrPlus="-1" widthErrMinus="-1" i="?" g="" j="?" p="?" c="" a="F"
+	 pdg-mc="" chrg="+" r="1" s="S" name="Xi(cc)" quarks="dcc">
+</particle>
+
+<particle massMeV="5.624E+03" massErrPlus="9.0E+00" massErrMinus="9.0E+00" widthMeV="5.35E-10"
+	 widthErrPlus="3.4E-11" widthErrMinus="3.0E-11" i="0" g="" j="1/2" p="+" c="" a="F"
+	 pdg-mc="5122" chrg="0" r="3" s="R" name="Lambda(b)" quarks="udb">
+</particle>
+
+</data>
