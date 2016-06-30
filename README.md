@@ -3,8 +3,9 @@ Requires lxml
 
 ParticleProperties uses mass_width_2014.mcd and mass_width_2006.csv, from the PDG and converted to XML, and ParticleData.xml from Pythia8 as data sources.
 
-Sample Output-
-muon
+<strong>Sample Output-</strong>
+
+<strong>muon</strong>
 
         mu-             J = 1/2         pdg-mc = 13
         Charge = -      Anitparticle = mu+
@@ -19,7 +20,7 @@ muon
         1.0             Total
 
 
-Omega-
+<strong>Omega-</strong>
 
         Omega-          I(Jᴾ) = 0(3/2⁺)         pdg-mc = 3334
         Charge = -      Anitparticle = Omegabar+
