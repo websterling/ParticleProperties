@@ -142,6 +142,7 @@ def pythia8_data(particle_identifier):
 
 def index():
     index = {}
+    full_list = []
     for node in pythia8.iter('particle'):
         pdg_mc = node.attrib.get('id')
         if len(pdg_mc) < 7:
@@ -150,8 +151,16 @@ def index():
             if not anti_name:
                 anti_name = 'self'
             index[int(pdg_mc)] = name, anti_name
+
     for key in sorted(index.keys()):
-        print('%10s   %-17s%-22s' % (str(key), index[key][0], index[key][1]))
+        full_list.append('%10s   %-17s%-22s' % (str(key), index[key][0], index[key][1]))
+
+    if len(full_list) % 2 == 1:
+        full_list.append('')
+
+    for i in range(0, len(full_list)/2):
+        print(full_list[i] + '\t' + full_list[i + len(full_list)/2])
+
     print('')
     return index
 
@@ -167,7 +176,12 @@ for particle_identifier in particles:
         print(particle_identifier + ' is not a valid pdg-mc\n')
         quit()
 
-    quantum_numbers, quarks = mcd2006_data(particle_identifier)
+    try:
+        quantum_numbers, quarks = mcd2006_data(particle_identifier)
+    except:
+        print('Incomplete data on this particle\n')
+        quit()
+
     mass, width, chrg, lifetime = mcd2014_data(particle_identifier)
     name, anti_name, decays, ratios_total = pythia8_data(particle_identifier)
 
