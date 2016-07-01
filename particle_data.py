@@ -96,7 +96,7 @@ def mcd2014_data(particle_identifier):
                     if identity == particle_identifier:
                         tau0 = node.attrib.get('tau0')
                         if tau0:
-                            lifetime = str(float(tau0) / c)
+                            lifetime = str(float(tau0) / c) + ' s'
                         else:
                             lifetime = 'no lifetime'
             return mass, width, chrg, lifetime
