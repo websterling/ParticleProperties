@@ -25,7 +25,7 @@ ParticleProperties uses mass_width_2014.mcd and mass_width_2006.csv, from the PD
         Charge = -      Anitparticle = Omegabar+
 
         Mass m = 1.67245E+00 ± 2.9E-04 GeV
-        Mean lifetime = 8.20907968912e-11
+        Mean lifetime = 8.20907968912e-11 s
         Quarks = sss
 
         Decay modes
