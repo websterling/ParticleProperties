@@ -179,8 +179,8 @@ for particle_identifier in particles:
     try:
         quantum_numbers, quarks = mcd2006_data(particle_identifier)
     except:
-        print('Incomplete data on this particle\n')
-        quit()
+        print('\t' + particle_identifier + ' - Incomplete data on this particle\n\n')
+        continue
 
     mass, width, chrg, lifetime = mcd2014_data(particle_identifier)
     name, anti_name, decays, ratios_total = pythia8_data(particle_identifier)
